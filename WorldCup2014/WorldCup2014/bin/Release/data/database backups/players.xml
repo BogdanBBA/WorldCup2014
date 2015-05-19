@@ -1,0 +1,1160 @@
+<PLAYERS lastSaved="18 June 2014, 16:24:40">
+  <COUNTRIES>
+    <Country id="ALG" name="Algeria" />
+    <Country id="ARG" name="Argentina" />
+    <Country id="AUS" name="Australia" />
+    <Country id="AUT" name="Austria" />
+    <Country id="BEL" name="Belgium" />
+    <Country id="BIH" name="Bosnia and Herzegovina" />
+    <Country id="BRA" name="Brazil" />
+    <Country id="BUL" name="Bulgaria" />
+    <Country id="CMR" name="Cameroon" />
+    <Country id="CAN" name="Canada" />
+    <Country id="CHI" name="Chile" />
+    <Country id="CHN" name="China" />
+    <Country id="COL" name="Colombia" />
+    <Country id="CRC" name="Costa Rica" />
+    <Country id="CRO" name="Croatia" />
+    <Country id="DEN" name="Denmark" />
+    <Country id="ECU" name="Ecuador" />
+    <Country id="ENG" name="England" />
+    <Country id="FRA" name="France" />
+    <Country id="GER" name="Germany" />
+    <Country id="GHA" name="Ghana" />
+    <Country id="GRE" name="Greece" />
+    <Country id="HON" name="Honduras" />
+    <Country id="HUN" name="Hungary" />
+    <Country id="IRN" name="Iran" />
+    <Country id="ISR" name="Israel" />
+    <Country id="ITA" name="Italy" />
+    <Country id="CIV" name="Ivory Coast" />
+    <Country id="JPN" name="Japan" />
+    <Country id="KUW" name="Kuwait" />
+    <Country id="MEX" name="Mexico" />
+    <Country id="NED" name="Netherlands" />
+    <Country id="NGA" name="Nigeria" />
+    <Country id="NOR" name="Norway" />
+    <Country id="PRY" name="Paraguay" />
+    <Country id="POR" name="Portugal" />
+    <Country id="QAT" name="Qatar" />
+    <Country id="RUS" name="Russia" />
+    <Country id="SAU" name="Saudi Arabia" />
+    <Country id="SCO" name="Scotland" />
+    <Country id="ZAF" name="South Africa" />
+    <Country id="KOR" name="South Korea" />
+    <Country id="ESP" name="Spain" />
+    <Country id="SWE" name="Sweden" />
+    <Country id="SUI" name="Switzerland" />
+    <Country id="TUN" name="Tunisia" />
+    <Country id="TUR" name="Turkey" />
+    <Country id="UKR" name="Ukraine" />
+    <Country id="ARE" name="United Arab Emirates" />
+    <Country id="USA" name="United States" />
+    <Country id="URU" name="Uruguay" />
+    <Country id="WAL" name="Wales" />
+  </COUNTRIES>
+  <CLUBS>
+    <Club id="c001" countryID="GER" name="1. FC Nürnberg" />
+    <Club id="c002" countryID="GER" name="1860 München" />
+    <Club id="c003" countryID="GER" name="1899 Hoffenheim" />
+    <Club id="c004" countryID="NOR" name="Aalesund" />
+    <Club id="c005" countryID="POR" name="Académica" />
+    <Club id="c006" countryID="AUS" name="Adelaide United" />
+    <Club id="c007" countryID="GHA" name="Aduana Stars" />
+    <Club id="c008" countryID="SWE" name="AIK" />
+    <Club id="c009" countryID="FRA" name="Ajaccio" />
+    <Club id="c010" countryID="NED" name="Ajax" />
+    <Club id="c011" countryID="ARE" name="Al-Ain" />
+    <Club id="c012" countryID="CRC" name="Alajuelense" />
+    <Club id="c013" countryID="QAT" name="Al-Gharafa" />
+    <Club id="c014" countryID="SAU" name="Al-Hilal" />
+    <Club id="c015" countryID="ARE" name="Al-Jazira" />
+    <Club id="c016" countryID="KUW" name="Al-Kuwait" />
+    <Club id="c017" countryID="ESP" name="Almería" />
+    <Club id="c018" countryID="MEX" name="América" />
+    <Club id="c019" countryID="BEL" name="Anderlecht" />
+    <Club id="c020" countryID="TUR" name="Antalyaspor" />
+    <Club id="c021" countryID="RUS" name="Anzhi Makhachkala" />
+    <Club id="c022" countryID="ENG" name="Arsenal" />
+    <Club id="c023" countryID="FRA" name="AS Monaco" />
+    <Club id="c024" countryID="ISR" name="Ashdod" />
+    <Club id="c025" countryID="ENG" name="Aston Villa" />
+    <Club id="c026" countryID="ITA" name="Atalanta" />
+    <Club id="c027" countryID="MEX" name="Atlante" />
+    <Club id="c028" countryID="ESP" name="Atlético Madrid" />
+    <Club id="c029" countryID="BRA" name="Atlético Mineiro" />
+    <Club id="c030" countryID="COL" name="Atlético Nacional" />
+    <Club id="c031" countryID="GER" name="Augsburg" />
+    <Club id="c032" countryID="AUT" name="Austria Wien" />
+    <Club id="c033" countryID="NED" name="AZ" />
+    <Club id="c034" countryID="ESP" name="Barcelona" />
+    <Club id="c035" countryID="ECU" name="Barcelona" />
+    <Club id="c036" countryID="SUI" name="Basel" />
+    <Club id="c037" countryID="FRA" name="Bastia" />
+    <Club id="c038" countryID="GER" name="Bayer Leverkusen" />
+    <Club id="c039" countryID="GER" name="Bayern Munich" />
+    <Club id="c040" countryID="CHN" name="Beijing Guoan" />
+    <Club id="c041" countryID="POR" name="Benfica" />
+    <Club id="c042" countryID="TUR" name="Beşiktaş" />
+    <Club id="c043" countryID="ARG" name="Boca Juniors" />
+    <Club id="c044" countryID="ITA" name="Bologna" />
+    <Club id="c045" countryID="ENG" name="Bolton Wanderers" />
+    <Club id="c046" countryID="BIH" name="Borac Banja Luka" />
+    <Club id="c047" countryID="FRA" name="Bordeaux" />
+    <Club id="c048" countryID="GER" name="Borussia Dortmund" />
+    <Club id="c049" countryID="GER" name="Borussia Mönchengladbach" />
+    <Club id="c050" countryID="BRA" name="Botafogo" />
+    <Club id="c051" countryID="POR" name="Braga" />
+    <Club id="c052" countryID="AUS" name="Brisbane Roar" />
+    <Club id="c053" countryID="KOR" name="Busan IPark" />
+    <Club id="c054" countryID="ITA" name="Cagliari" />
+    <Club id="c055" countryID="WAL" name="Cardiff City" />
+    <Club id="c056" countryID="CRC" name="Cartaginés" />
+    <Club id="c057" countryID="ITA" name="Catania" />
+    <Club id="c058" countryID="TUR" name="Çaykur Rizespor" />
+    <Club id="c059" countryID="ESP" name="Celta Vigo" />
+    <Club id="c060" countryID="SCO" name="Celtic" />
+    <Club id="c061" countryID="BEL" name="Cercle Brugge" />
+    <Club id="c062" countryID="JPN" name="Cerezo Osaka" />
+    <Club id="c063" countryID="ENG" name="Charlton Athletic" />
+    <Club id="c064" countryID="ENG" name="Chelsea" />
+    <Club id="c065" countryID="USA" name="Chivas USA" />
+    <Club id="c066" countryID="TUN" name="Club Africain" />
+    <Club id="c067" countryID="BEL" name="Club Brugge" />
+    <Club id="c068" countryID="CHI" name="Colo-Colo" />
+    <Club id="c069" countryID="USA" name="Columbus Crew" />
+    <Club id="c070" countryID="DEN" name="Copenhagen" />
+    <Club id="c071" countryID="BRA" name="Corinthians" />
+    <Club id="c072" countryID="CMR" name="Coton Sport" />
+    <Club id="c073" countryID="MEX" name="Cruz Azul" />
+    <Club id="c074" countryID="ENG" name="Crystal Palace" />
+    <Club id="c075" countryID="ALG" name="CS Constantine" />
+    <Club id="c076" countryID="RUS" name="CSKA Moscow" />
+    <Club id="c077" countryID="BUL" name="CSKA Sofia" />
+    <Club id="c078" countryID="COL" name="Deportivo Cali" />
+    <Club id="c079" countryID="CRO" name="Dinamo Zagreb" />
+    <Club id="c080" countryID="UKR" name="Dynamo Kyiv" />
+    <Club id="c081" countryID="RUS" name="Dynamo Moscow" />
+    <Club id="c082" countryID="GER" name="Eintracht Braunschweig" />
+    <Club id="c083" countryID="GER" name="Eintracht Frankfurt" />
+    <Club id="c084" countryID="ECU" name="El Nacional" />
+    <Club id="c085" countryID="TUR" name="Elazığspor" />
+    <Club id="c086" countryID="ESP" name="Elche" />
+    <Club id="c087" countryID="ECU" name="Emelec" />
+    <Club id="c088" countryID="NGA" name="Enugu Rangers" />
+    <Club id="c089" countryID="ESP" name="Espanyol" />
+    <Club id="c090" countryID="TUN" name="Espérance" />
+    <Club id="c091" countryID="IRN" name="Esteghlal" />
+    <Club id="c092" countryID="ENG" name="Everton" />
+    <Club id="c093" countryID="FRA" name="Évian" />
+    <Club id="c094" countryID="JPN" name="F.C. Tokyo" />
+    <Club id="c095" countryID="GER" name="FC Augsburg" />
+    <Club id="c096" countryID="TUR" name="Fenerbahçe" />
+    <Club id="c097" countryID="HUN" name="Ferencváros" />
+    <Club id="c098" countryID="TUR" name="Fethiyespor" />
+    <Club id="c099" countryID="NED" name="Feyenoord" />
+    <Club id="c100" countryID="ITA" name="Fiorentina" />
+    <Club id="c101" countryID="BRA" name="Flamengo" />
+    <Club id="c102" countryID="BRA" name="Fluminense" />
+    <Club id="c103" countryID="IRN" name="Foolad" />
+    <Club id="c104" countryID="GER" name="Fortuna Düsseldorf" />
+    <Club id="c105" countryID="GER" name="FSV Frankfurt" />
+    <Club id="c106" countryID="ENG" name="Fulham" />
+    <Club id="c107" countryID="TUR" name="Galatasaray" />
+    <Club id="c108" countryID="JPN" name="Gamba Osaka" />
+    <Club id="c109" countryID="TUR" name="Gaziantepspor" />
+    <Club id="c110" countryID="ITA" name="Genoa" />
+    <Club id="c111" countryID="ESP" name="Getafe" />
+    <Club id="c112" countryID="NGA" name="Gombe United" />
+    <Club id="c113" countryID="ESP" name="Granada" />
+    <Club id="c114" countryID="SUI" name="Grasshopper" />
+    <Club id="c115" countryID="CHN" name="Guangzhou Evergrande" />
+    <Club id="c116" countryID="CHN" name="Guangzhou RF" />
+    <Club id="c117" countryID="CHN" name="Guizhou Renhe" />
+    <Club id="c118" countryID="CRO" name="Hajduk Split" />
+    <Club id="c119" countryID="GER" name="Hamburger SV" />
+    <Club id="c120" countryID="GER" name="Hannover 96" />
+    <Club id="c121" countryID="ISR" name="Hapoel Be'er Sheva" />
+    <Club id="c122" countryID="NED" name="Heerenveen" />
+    <Club id="c123" countryID="NED" name="Heracles Almelo" />
+    <Club id="c124" countryID="CRC" name="Herediano" />
+    <Club id="c125" countryID="GER" name="Hertha Berlin" />
+    <Club id="c126" countryID="GER" name="Hertha BSC" />
+    <Club id="c127" countryID="USA" name="Houston Dynamo" />
+    <Club id="c128" countryID="ENG" name="Hull City" />
+    <Club id="c129" countryID="BRA" name="Internacional" />
+    <Club id="c130" countryID="ITA" name="Internazionale" />
+    <Club id="c131" countryID="TUR" name="İstanbul Başakşehir" />
+    <Club id="c132" countryID="KOR" name="Jeonbuk Hyundai Motors" />
+    <Club id="c133" countryID="JPN" name="Jubilo Iwata" />
+    <Club id="c134" countryID="ITA" name="Juventus" />
+    <Club id="c135" countryID="JPN" name="Kashiwa Reysol" />
+    <Club id="c136" countryID="JPN" name="Kawasaki Frontale" />
+    <Club id="c137" countryID="TUR" name="Kayseri Erciyesspor" />
+    <Club id="c138" countryID="TUR" name="Kayserispor" />
+    <Club id="c139" countryID="TUR" name="Konyaspor" />
+    <Club id="c140" countryID="RUS" name="Kuban Krasnodar" />
+    <Club id="c141" countryID="ESP" name="Las Palmas" />
+    <Club id="c142" countryID="ITA" name="Lazio" />
+    <Club id="c143" countryID="ECU" name="LDU Quito" />
+    <Club id="c144" countryID="ENG" name="Leicester City" />
+    <Club id="c145" countryID="QAT" name="Lekhwiya" />
+    <Club id="c146" countryID="FRA" name="Lens" />
+    <Club id="c147" countryID="MEX" name="León" />
+    <Club id="c148" countryID="ESP" name="Levante" />
+    <Club id="c149" countryID="PRY" name="Libertad" />
+    <Club id="c150" countryID="FRA" name="Lille" />
+    <Club id="c151" countryID="ENG" name="Liverpool" />
+    <Club id="c152" countryID="ITA" name="Livorno" />
+    <Club id="c153" countryID="BEL" name="Lokeren" />
+    <Club id="c154" countryID="RUS" name="Lokomotiv Moscow" />
+    <Club id="c155" countryID="CRO" name="Lokomotiva" />
+    <Club id="c156" countryID="FRA" name="Lorient" />
+    <Club id="c157" countryID="USA" name="Los Angeles Galaxy" />
+    <Club id="c158" countryID="SUI" name="Luzern" />
+    <Club id="c159" countryID="FRA" name="Lyon" />
+    <Club id="c160" countryID="GER" name="Mainz 05" />
+    <Club id="c161" countryID="ESP" name="Mallorca" />
+    <Club id="c162" countryID="SWE" name="Malmö FF" />
+    <Club id="c163" countryID="ZAF" name="Mamelodi Sundowns" />
+    <Club id="c164" countryID="ENG" name="Manchester City" />
+    <Club id="c165" countryID="ENG" name="Manchester United" />
+    <Club id="c166" countryID="FRA" name="Marseille" />
+    <Club id="c167" countryID="AUS" name="Melbourne Victory" />
+    <Club id="c168" countryID="ENG" name="Middlesbrough" />
+    <Club id="c169" countryID="ITA" name="Milan" />
+    <Club id="c170" countryID="MEX" name="Monterrey" />
+    <Club id="c171" countryID="FRA" name="Montpellier" />
+    <Club id="c172" countryID="MEX" name="Morelia" />
+    <Club id="c173" countryID="HON" name="Motagua" />
+    <Club id="c174" countryID="URU" name="Nacional" />
+    <Club id="c175" countryID="IRN" name="Naft Tehran" />
+    <Club id="c176" countryID="FRA" name="Nancy" />
+    <Club id="c177" countryID="FRA" name="Nantes" />
+    <Club id="c178" countryID="ITA" name="Napoli" />
+    <Club id="c179" countryID="NED" name="NEC" />
+    <Club id="c180" countryID="USA" name="New England Revolution" />
+    <Club id="c181" countryID="USA" name="New York Red Bulls" />
+    <Club id="c182" countryID="AUS" name="Newcastle Jets" />
+    <Club id="c183" countryID="ENG" name="Newcastle United" />
+    <Club id="c184" countryID="ARG" name="Newell's Old Boys" />
+    <Club id="c185" countryID="FRA" name="Nice" />
+    <Club id="c186" countryID="ENG" name="Norwich City" />
+    <Club id="c187" countryID="ENG" name="Nottingham Forest" />
+    <Club id="c188" countryID="HON" name="Olimpia" />
+    <Club id="c189" countryID="GRE" name="Olympiacos" />
+    <Club id="c190" countryID="ZAF" name="Orlando Pirates" />
+    <Club id="c191" countryID="ESP" name="Osasuna" />
+    <Club id="c192" countryID="MEX" name="Pachuca" />
+    <Club id="c193" countryID="ITA" name="Palermo" />
+    <Club id="c194" countryID="BRA" name="Palmeiras" />
+    <Club id="c195" countryID="GRE" name="Panathinaikos" />
+    <Club id="c196" countryID="GRE" name="PAOK" />
+    <Club id="c197" countryID="FRA" name="Paris Saint-Germain" />
+    <Club id="c198" countryID="ITA" name="Parma" />
+    <Club id="c199" countryID="IRN" name="Persepolis" />
+    <Club id="c200" countryID="GRE" name="Platanias" />
+    <Club id="c201" countryID="POR" name="Porto" />
+    <Club id="c202" countryID="ENG" name="Preston North End" />
+    <Club id="c203" countryID="NED" name="PSV" />
+    <Club id="c204" countryID="MEX" name="Puebla" />
+    <Club id="c205" countryID="CHN" name="Qingdao Jonoon" />
+    <Club id="c206" countryID="ENG" name="Queens Park Rangers" />
+    <Club id="c207" countryID="HON" name="Real España" />
+    <Club id="c208" countryID="ESP" name="Real Madrid" />
+    <Club id="c209" countryID="USA" name="Real Salt Lake" />
+    <Club id="c210" countryID="HON" name="Real Sociedad" />
+    <Club id="c211" countryID="ESP" name="Real Sociedad" />
+    <Club id="c212" countryID="FRA" name="Reims" />
+    <Club id="c213" countryID="FRA" name="Rennes" />
+    <Club id="c214" countryID="ARG" name="River Plate" />
+    <Club id="c215" countryID="ITA" name="Roma" />
+    <Club id="c216" countryID="NOR" name="Rosenborg" />
+    <Club id="c217" countryID="RUS" name="Rostov" />
+    <Club id="c218" countryID="RUS" name="Rubin Kazan" />
+    <Club id="c219" countryID="FRA" name="Saint-Étienne" />
+    <Club id="c220" countryID="ITA" name="Sampdoria" />
+    <Club id="c221" countryID="USA" name="San Jose Earthquakes" />
+    <Club id="c222" countryID="ARG" name="San Lorenzo" />
+    <Club id="c223" countryID="JPN" name="Sanfrecce Hiroshima" />
+    <Club id="c224" countryID="KOR" name="Sangju Sangmu" />
+    <Club id="c225" countryID="COL" name="Santa Fe" />
+    <Club id="c226" countryID="BRA" name="Santos" />
+    <Club id="c227" countryID="MEX" name="Santos Laguna" />
+    <Club id="c228" countryID="BRA" name="São Paulo" />
+    <Club id="c229" countryID="CRC" name="Saprissa" />
+    <Club id="c230" countryID="ITA" name="Sassuolo" />
+    <Club id="c231" countryID="GER" name="SC Freiburg" />
+    <Club id="c232" countryID="GER" name="Schalke 04" />
+    <Club id="c233" countryID="USA" name="Seattle Sounders FC" />
+    <Club id="c234" countryID="IRN" name="Sepahan" />
+    <Club id="c235" countryID="ESP" name="Sevilla" />
+    <Club id="c236" countryID="CIV" name="Séwé Sport" />
+    <Club id="c237" countryID="UKR" name="Shakhtar Donetsk" />
+    <Club id="c238" countryID="CHN" name="Shandong Luneng Taishan" />
+    <Club id="c239" countryID="SUI" name="Sion" />
+    <Club id="c240" countryID="FRA" name="Sochaux" />
+    <Club id="c241" countryID="ENG" name="Southampton" />
+    <Club id="c242" countryID="RUS" name="Spartak Moscow" />
+    <Club id="c243" countryID="POR" name="Sporting Covilhã" />
+    <Club id="c244" countryID="POR" name="Sporting CP" />
+    <Club id="c245" countryID="USA" name="Sporting Kansas City" />
+    <Club id="c246" countryID="NOR" name="Stabæk" />
+    <Club id="c247" countryID="BEL" name="Standard Liège" />
+    <Club id="c248" countryID="ENG" name="Stoke City" />
+    <Club id="c249" countryID="NOR" name="Strømsgodset" />
+    <Club id="c250" countryID="AUT" name="Sturm Graz" />
+    <Club id="c251" countryID="ENG" name="Sunderland" />
+    <Club id="c252" countryID="NGA" name="Sunshine Stars" />
+    <Club id="c253" countryID="KOR" name="Suwon Bluewings" />
+    <Club id="c254" countryID="WAL" name="Swansea City" />
+    <Club id="c255" countryID="ENG" name="Swindon Town" />
+    <Club id="c256" countryID="RUS" name="Terek Grozny" />
+    <Club id="c257" countryID="MEX" name="Tijuana" />
+    <Club id="c258" countryID="MEX" name="Toluca" />
+    <Club id="c259" countryID="ITA" name="Torino" />
+    <Club id="c260" countryID="CAN" name="Toronto FC" />
+    <Club id="c261" countryID="ENG" name="Tottenham Hotspur" />
+    <Club id="c262" countryID="FRA" name="Toulouse" />
+    <Club id="c263" countryID="TUR" name="Trabzonspor" />
+    <Club id="c264" countryID="IRN" name="Tractor Sazi" />
+    <Club id="c265" countryID="NED" name="Twente" />
+    <Club id="c266" countryID="MEX" name="UANL" />
+    <Club id="c267" countryID="ITA" name="Udinese" />
+    <Club id="c268" countryID="KOR" name="Ulsan Hyundai" />
+    <Club id="c269" countryID="QAT" name="Umm Salal" />
+    <Club id="c270" countryID="CHI" name="Universidad Católica" />
+    <Club id="c271" countryID="CHI" name="Universidad de Chile" />
+    <Club id="c272" countryID="JPN" name="Urawa Red Diamonds" />
+    <Club id="c273" countryID="ALG" name="USM Alger" />
+    <Club id="c274" countryID="NED" name="Utrecht" />
+    <Club id="c275" countryID="ESP" name="Valencia" />
+    <Club id="c276" countryID="FRA" name="Valenciennes" />
+    <Club id="c277" countryID="NOR" name="Vålerenga" />
+    <Club id="c278" countryID="CAN" name="Vancouver Whitecaps FC" />
+    <Club id="c279" countryID="BRA" name="Vasco da Gama" />
+    <Club id="c280" countryID="ITA" name="Verona" />
+    <Club id="c281" countryID="GER" name="VfB Stuttgart" />
+    <Club id="c282" countryID="GER" name="VfL Wolfsburg" />
+    <Club id="c283" countryID="GER" name="VfR Aalen" />
+    <Club id="c284" countryID="ESP" name="Villarreal" />
+    <Club id="c285" countryID="NED" name="Vitesse" />
+    <Club id="c286" countryID="UKR" name="Volyn Lutsk" />
+    <Club id="c287" countryID="BEL" name="Waasland-Beveren" />
+    <Club id="c288" countryID="NGA" name="Warri Wolves" />
+    <Club id="c289" countryID="ENG" name="Watford" />
+    <Club id="c290" countryID="ENG" name="West Bromwich Albion" />
+    <Club id="c291" countryID="ENG" name="West Ham United" />
+    <Club id="c292" countryID="AUS" name="Western Sydney Wanderers" />
+    <Club id="c293" countryID="ENG" name="Wigan Athletic" />
+    <Club id="c294" countryID="JPN" name="Yokohama F. Marinos" />
+    <Club id="c295" countryID="SUI" name="Young Boys" />
+    <Club id="c296" countryID="RUS" name="Zenit Saint Petersburg" />
+    <Club id="c297" countryID="IRN" name="Zob Ahan" />
+    <Club id="c298" countryID="UKR" name="Zorya Luhansk" />
+    <Club id="c299" countryID="BEL" name="Zulte Waregem" />
+    <Club id="c300" countryID="SUI" name="Zürich" />
+  </CLUBS>
+  <COUNTRY_PLAYERS>
+    <CountryPlayerList countryID="ALG" coachName="Vahid Halilhodžić" coachNationality="BIH">
+      <Player id="P001" no="1" pos="GK" name="Cédric Si Mohamed" born="09.01.1985" caps="1" clubID="c075" />
+      <Player id="P002" no="2" pos="DF" name="Madjid Bougherra" born="07.10.1982" caps="62" clubID="c145" />
+      <Player id="P003" no="3" pos="DF" name="Faouzi Ghoulam" born="01.02.1991" caps="6" clubID="c178" />
+      <Player id="P004" no="4" pos="DF" name="Essaïd Belkalem" born="01.01.1989" caps="13" clubID="c289" />
+      <Player id="P005" no="5" pos="DF" name="Rafik Halliche" born="02.09.1986" caps="29" clubID="c005" />
+      <Player id="P006" no="6" pos="DF" name="Djamel Mesbah" born="09.10.1984" caps="26" clubID="c152" />
+      <Player id="P007" no="7" pos="MF" name="Hassan Yebda" born="14.05.1984" caps="25" clubID="c267" />
+      <Player id="P008" no="8" pos="MF" name="Medhi Lacen" born="15.05.1984" caps="30" clubID="c111" />
+      <Player id="P009" no="9" pos="FW" name="Nabil Ghilas" born="20.04.1990" caps="5" clubID="c201" />
+      <Player id="P010" no="10" pos="MF" name="Sofiane Feghouli" born="26.12.1989" caps="19" clubID="c275" />
+      <Player id="P011" no="11" pos="MF" name="Yacine Brahimi" born="08.02.1990" caps="6" clubID="c113" />
+      <Player id="P012" no="12" pos="DF" name="Carl Medjani" born="15.05.1985" caps="26" clubID="c276" />
+      <Player id="P013" no="13" pos="FW" name="Islam Slimani" born="18.06.1988" caps="20" clubID="c244" />
+      <Player id="P014" no="14" pos="MF" name="Nabil Bentaleb" born="24.11.1994" caps="3" clubID="c261" />
+      <Player id="P015" no="15" pos="FW" name="El Arbi Hillel Soudani" born="25.11.1987" caps="22" clubID="c079" />
+      <Player id="P016" no="16" pos="GK" name="Mohamed Zemmamouche" born="19.03.1985" caps="7" clubID="c273" />
+      <Player id="P017" no="17" pos="DF" name="Liassine Cadamuro-Bentaïba" born="05.03.1988" caps="7" clubID="c161" />
+      <Player id="P018" no="18" pos="MF" name="Abdelmoumene Djabou" born="31.01.1987" caps="8" clubID="c066" />
+      <Player id="P019" no="19" pos="MF" name="Saphir Taïder" born="29.02.1992" caps="11" clubID="c130" />
+      <Player id="P020" no="20" pos="DF" name="Aïssa Mandi" born="22.10.1991" caps="2" clubID="c212" />
+      <Player id="P021" no="21" pos="MF" name="Riyad Mahrez" born="21.02.1991" caps="2" clubID="c144" />
+      <Player id="P022" no="22" pos="MF" name="Mehdi Mostefa" born="30.08.1983" caps="23" clubID="c009" />
+      <Player id="P023" no="23" pos="GK" name="Raïs M'Bolhi" born="25.04.1986" caps="28" clubID="c077" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="ARG" coachName="Alejandro Sabella" coachNationality="ARG">
+      <Player id="P024" no="1" pos="GK" name="Sergio Romero" born="22.02.1987" caps="47" clubID="c023" />
+      <Player id="P025" no="2" pos="DF" name="Ezequiel Garay" born="10.10.1986" caps="18" clubID="c041" />
+      <Player id="P026" no="3" pos="DF" name="Hugo Campagnaro" born="27.06.1980" caps="15" clubID="c130" />
+      <Player id="P027" no="4" pos="DF" name="Pablo Zabaleta" born="16.01.1985" caps="36" clubID="c164" />
+      <Player id="P028" no="5" pos="MF" name="Fernando Gago" born="10.04.1986" caps="49" clubID="c043" />
+      <Player id="P029" no="6" pos="MF" name="Lucas Biglia" born="30.01.1986" caps="18" clubID="c142" />
+      <Player id="P030" no="7" pos="MF" name="Ángel di María" born="14.02.1988" caps="47" clubID="c208" />
+      <Player id="P031" no="8" pos="MF" name="Enzo Pérez" born="22.02.1986" caps="7" clubID="c041" />
+      <Player id="P032" no="9" pos="FW" name="Gonzalo Higuaín" born="10.12.1987" caps="36" clubID="c178" />
+      <Player id="P033" no="10" pos="FW" name="Lionel Messi" born="24.06.1987" caps="86" clubID="c034" />
+      <Player id="P034" no="11" pos="MF" name="Maxi Rodríguez" born="02.01.1981" caps="55" clubID="c184" />
+      <Player id="P035" no="12" pos="GK" name="Agustín Orión" born="26.07.1981" caps="3" clubID="c043" />
+      <Player id="P036" no="13" pos="MF" name="Augusto Fernández" born="10.04.1986" caps="9" clubID="c059" />
+      <Player id="P037" no="14" pos="MF" name="Javier Mascherano" born="08.06.1984" caps="98" clubID="c034" />
+      <Player id="P038" no="15" pos="DF" name="Martín Demichelis" born="20.12.1980" caps="38" clubID="c164" />
+      <Player id="P039" no="16" pos="DF" name="Marcos Rojo" born="20.03.1990" caps="22" clubID="c244" />
+      <Player id="P040" no="17" pos="DF" name="Federico Fernández" born="21.02.1989" caps="26" clubID="c178" />
+      <Player id="P041" no="18" pos="FW" name="Rodrigo Palacio" born="05.02.1982" caps="22" clubID="c130" />
+      <Player id="P042" no="19" pos="MF" name="Ricardo Álvarez" born="12.04.1988" caps="7" clubID="c130" />
+      <Player id="P043" no="20" pos="FW" name="Sergio Agüero" born="02.06.1988" caps="51" clubID="c164" />
+      <Player id="P044" no="21" pos="GK" name="Mariano Andújar" born="30.07.1983" caps="10" clubID="c057" />
+      <Player id="P045" no="22" pos="FW" name="Ezequiel Lavezzi" born="03.05.1985" caps="31" clubID="c197" />
+      <Player id="P046" no="23" pos="DF" name="José María Basanta" born="03.04.1984" caps="10" clubID="c170" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="AUS" coachName="Ange Postecoglou" coachNationality="AUS">
+      <Player id="P047" no="1" pos="GK" name="Mathew Ryan" born="08.04.1992" caps="7" clubID="c067" />
+      <Player id="P048" no="2" pos="DF" name="Ivan Franjic" born="10.09.1987" caps="9" clubID="c052" />
+      <Player id="P049" no="3" pos="DF" name="Jason Davidson" born="29.06.1991" caps="7" clubID="c123" />
+      <Player id="P050" no="4" pos="FW" name="Tim Cahill" born="06.12.1979" caps="69" clubID="c181" />
+      <Player id="P051" no="5" pos="MF" name="Mark Milligan" born="04.08.1985" caps="29" clubID="c167" />
+      <Player id="P052" no="6" pos="DF" name="Matthew Špiranović" born="27.06.1988" caps="18" clubID="c292" />
+      <Player id="P053" no="7" pos="FW" name="Mathew Leckie" born="04.02.1991" caps="8" clubID="c105" />
+      <Player id="P054" no="8" pos="DF" name="Bailey Wright" born="28.07.1992" caps="0" clubID="c202" />
+      <Player id="P055" no="9" pos="FW" name="Adam Taggart" born="02.06.1993" caps="5" clubID="c182" />
+      <Player id="P056" no="10" pos="MF" name="Ben Halloran" born="14.06.1992" caps="2" clubID="c104" />
+      <Player id="P057" no="11" pos="MF" name="Tommy Oar" born="10.12.1991" caps="15" clubID="c274" />
+      <Player id="P058" no="12" pos="GK" name="Mitchell Langerak" born="22.08.1988" caps="3" clubID="c048" />
+      <Player id="P059" no="13" pos="MF" name="Oliver Bozanić" born="08.01.1989" caps="3" clubID="c158" />
+      <Player id="P060" no="14" pos="MF" name="James Troisi" born="03.07.1988" caps="11" clubID="c167" />
+      <Player id="P061" no="15" pos="MF" name="Mile Jedinak" born="03.08.1984" caps="44" clubID="c074" />
+      <Player id="P062" no="16" pos="MF" name="James Holland" born="15.05.1989" caps="14" clubID="c032" />
+      <Player id="P063" no="17" pos="MF" name="Matt McKay" born="11.01.1983" caps="47" clubID="c052" />
+      <Player id="P064" no="18" pos="GK" name="Eugene Galeković" born="12.06.1981" caps="8" clubID="c006" />
+      <Player id="P065" no="19" pos="DF" name="Ryan McGowan" born="15.08.1989" caps="9" clubID="c238" />
+      <Player id="P066" no="20" pos="MF" name="Dario Vidošić" born="08.04.1987" caps="23" clubID="c239" />
+      <Player id="P067" no="21" pos="MF" name="Massimo Luongo" born="25.09.1992" caps="1" clubID="c255" />
+      <Player id="P068" no="22" pos="DF" name="Alex Wilkinson" born="13.08.1984" caps="3" clubID="c132" />
+      <Player id="P069" no="23" pos="MF" name="Mark Bresciano" born="11.02.1980" caps="74" clubID="c013" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="BEL" coachName="Marc Wilmots" coachNationality="BEL">
+      <Player id="P070" no="1" pos="GK" name="Thibaut Courtois" born="11.05.1992" caps="17" clubID="c028" />
+      <Player id="P071" no="2" pos="DF" name="Toby Alderweireld" born="02.03.1989" caps="34" clubID="c028" />
+      <Player id="P072" no="3" pos="DF" name="Thomas Vermaelen" born="14.11.1985" caps="47" clubID="c022" />
+      <Player id="P073" no="4" pos="DF" name="Vincent Kompany" born="10.04.1986" caps="59" clubID="c164" />
+      <Player id="P074" no="5" pos="DF" name="Jan Vertonghen" born="24.04.1987" caps="56" clubID="c261" />
+      <Player id="P075" no="6" pos="MF" name="Axel Witsel" born="12.01.1989" caps="48" clubID="c296" />
+      <Player id="P076" no="7" pos="MF" name="Kevin De Bruyne" born="28.06.1991" caps="21" clubID="c282" />
+      <Player id="P077" no="8" pos="MF" name="Marouane Fellaini" born="22.11.1987" caps="50" clubID="c165" />
+      <Player id="P078" no="9" pos="FW" name="Romelu Lukaku" born="13.05.1993" caps="29" clubID="c092" />
+      <Player id="P079" no="10" pos="MF" name="Eden Hazard" born="07.01.1991" caps="45" clubID="c064" />
+      <Player id="P080" no="11" pos="MF" name="Kevin Mirallas" born="05.10.1987" caps="44" clubID="c092" />
+      <Player id="P081" no="12" pos="GK" name="Simon Mignolet" born="06.08.1988" caps="14" clubID="c151" />
+      <Player id="P082" no="13" pos="GK" name="Sammy Bossut" born="11.08.1985" caps="0" clubID="c299" />
+      <Player id="P083" no="14" pos="FW" name="Dries Mertens" born="06.05.1987" caps="25" clubID="c178" />
+      <Player id="P084" no="15" pos="DF" name="Daniel Van Buyten" born="07.02.1978" caps="79" clubID="c039" />
+      <Player id="P085" no="16" pos="MF" name="Steven Defour" born="15.04.1988" caps="43" clubID="c201" />
+      <Player id="P086" no="17" pos="FW" name="Divock Origi" born="18.04.1995" caps="2" clubID="c150" />
+      <Player id="P087" no="18" pos="DF" name="Nicolas Lombaerts" born="20.03.1985" caps="25" clubID="c296" />
+      <Player id="P088" no="19" pos="MF" name="Mousa Dembélé" born="16.07.1987" caps="57" clubID="c261" />
+      <Player id="P089" no="20" pos="MF" name="Adnan Januzaj" born="05.02.1995" caps="1" clubID="c165" />
+      <Player id="P090" no="21" pos="DF" name="Anthony Vanden Borre" born="24.10.1987" caps="25" clubID="c019" />
+      <Player id="P091" no="22" pos="MF" name="Nacer Chadli" born="02.10.1989" caps="20" clubID="c261" />
+      <Player id="P092" no="23" pos="DF" name="Laurent Ciman" born="05.08.1985" caps="8" clubID="c247" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="BIH" coachName="Safet Sušić" coachNationality="BIH">
+      <Player id="P093" no="1" pos="GK" name="Asmir Begović" born="20.06.1987" caps="30" clubID="c248" />
+      <Player id="P094" no="2" pos="DF" name="Avdija Vršajević" born="06.03.1986" caps="13" clubID="c118" />
+      <Player id="P095" no="3" pos="DF" name="Ermin Bičakčić" born="24.01.1990" caps="7" clubID="c082" />
+      <Player id="P096" no="4" pos="DF" name="Emir Spahić" born="18.08.1980" caps="74" clubID="c038" />
+      <Player id="P097" no="5" pos="DF" name="Sead Kolašinac" born="20.06.1993" caps="4" clubID="c232" />
+      <Player id="P098" no="6" pos="DF" name="Ognjen Vranješ" born="24.10.1989" caps="13" clubID="c085" />
+      <Player id="P099" no="7" pos="DF" name="Muhamed Bešić" born="10.09.1992" caps="9" clubID="c097" />
+      <Player id="P100" no="8" pos="MF" name="Miralem Pjanić" born="02.04.1990" caps="48" clubID="c215" />
+      <Player id="P101" no="9" pos="FW" name="Vedad Ibišević" born="06.08.1984" caps="55" clubID="c281" />
+      <Player id="P102" no="10" pos="MF" name="Zvjezdan Misimović" born="05.06.1982" caps="81" clubID="c117" />
+      <Player id="P103" no="11" pos="FW" name="Edin Džeko" born="17.03.1986" caps="62" clubID="c164" />
+      <Player id="P104" no="12" pos="GK" name="Jasmin Fejzić" born="15.05.1986" caps="0" clubID="c283" />
+      <Player id="P105" no="13" pos="DF" name="Mensur Mujdža" born="28.03.1984" caps="24" clubID="c231" />
+      <Player id="P106" no="14" pos="MF" name="Tino-Sven Sušić" born="13.02.1992" caps="2" clubID="c118" />
+      <Player id="P107" no="15" pos="DF" name="Toni Šunjić" born="15.12.1988" caps="7" clubID="c298" />
+      <Player id="P108" no="16" pos="MF" name="Senad Lulić" born="18.01.1986" caps="33" clubID="c142" />
+      <Player id="P109" no="17" pos="MF" name="Senijad Ibričić" born="26.09.1985" caps="44" clubID="c137" />
+      <Player id="P110" no="18" pos="MF" name="Haris Medunjanin" born="08.03.1985" caps="35" clubID="c109" />
+      <Player id="P111" no="19" pos="FW" name="Edin Višća" born="17.02.1990" caps="10" clubID="c131" />
+      <Player id="P112" no="20" pos="MF" name="Izet Hajrović" born="04.08.1991" caps="8" clubID="c107" />
+      <Player id="P113" no="21" pos="MF" name="Anel Hadžić" born="16.08.1989" caps="2" clubID="c250" />
+      <Player id="P114" no="22" pos="GK" name="Asmir Avdukić" born="13.05.1981" caps="3" clubID="c046" />
+      <Player id="P115" no="23" pos="MF" name="Sejad Salihović" born="08.10.1984" caps="42" clubID="c003" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="BRA" coachName="Luiz Felipe Scolari" coachNationality="BRA">
+      <Player id="P116" no="1" pos="GK" name="Jefferson" born="02.01.1983" caps="9" clubID="c050" />
+      <Player id="P117" no="2" pos="DF" name="Dani Alves" born="06.05.1983" caps="75" clubID="c034" />
+      <Player id="P118" no="3" pos="DF" name="Thiago Silva" born="22.09.1984" caps="46" clubID="c197" />
+      <Player id="P119" no="4" pos="DF" name="David Luiz" born="22.04.1987" caps="36" clubID="c064" />
+      <Player id="P120" no="5" pos="MF" name="Fernandinho" born="04.05.1985" caps="7" clubID="c164" />
+      <Player id="P121" no="6" pos="DF" name="Marcelo" born="12.05.1988" caps="31" clubID="c208" />
+      <Player id="P122" no="7" pos="FW" name="Hulk" born="25.07.1986" caps="35" clubID="c296" />
+      <Player id="P123" no="8" pos="MF" name="Paulinho" born="25.07.1988" caps="26" clubID="c261" />
+      <Player id="P124" no="9" pos="FW" name="Fred" born="03.10.1983" caps="33" clubID="c102" />
+      <Player id="P125" no="10" pos="FW" name="Neymar" born="05.02.1992" caps="49" clubID="c034" />
+      <Player id="P126" no="11" pos="MF" name="Oscar" born="09.09.1991" caps="31" clubID="c064" />
+      <Player id="P127" no="12" pos="GK" name="Júlio César" born="03.09.1979" caps="80" clubID="c260" />
+      <Player id="P128" no="13" pos="DF" name="Dante" born="18.10.1983" caps="12" clubID="c039" />
+      <Player id="P129" no="14" pos="DF" name="Maxwell" born="27.08.1981" caps="9" clubID="c197" />
+      <Player id="P130" no="15" pos="DF" name="Henrique" born="14.10.1986" caps="5" clubID="c178" />
+      <Player id="P131" no="16" pos="MF" name="Ramires" born="24.03.1987" caps="42" clubID="c064" />
+      <Player id="P132" no="17" pos="MF" name="Luiz Gustavo" born="23.07.1987" caps="19" clubID="c282" />
+      <Player id="P133" no="18" pos="MF" name="Hernanes" born="29.05.1985" caps="24" clubID="c130" />
+      <Player id="P134" no="19" pos="MF" name="Willian" born="09.08.1988" caps="7" clubID="c064" />
+      <Player id="P135" no="20" pos="FW" name="Bernard" born="08.09.1992" caps="11" clubID="c237" />
+      <Player id="P136" no="21" pos="FW" name="Jô" born="20.03.1987" caps="17" clubID="c029" />
+      <Player id="P137" no="22" pos="GK" name="Victor" born="21.01.1983" caps="6" clubID="c029" />
+      <Player id="P138" no="23" pos="DF" name="Maicon" born="26.07.1981" caps="72" clubID="c215" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="CHI" coachName="Jorge Sampaoli" coachNationality="ARG">
+      <Player id="P139" no="1" pos="GK" name="Claudio Bravo" born="13.04.1983" caps="79" clubID="c211" />
+      <Player id="P140" no="2" pos="DF" name="Eugenio Mena" born="18.07.1988" caps="25" clubID="c226" />
+      <Player id="P141" no="3" pos="DF" name="Miiko Albornoz" born="03.11.1990" caps="2" clubID="c162" />
+      <Player id="P142" no="4" pos="MF" name="Mauricio Isla" born="12.06.1988" caps="47" clubID="c134" />
+      <Player id="P143" no="5" pos="MF" name="Francisco Silva" born="11.02.1986" caps="12" clubID="c191" />
+      <Player id="P144" no="6" pos="MF" name="Carlos Carmona" born="21.02.1987" caps="44" clubID="c026" />
+      <Player id="P145" no="7" pos="FW" name="Alexis Sánchez" born="19.12.1988" caps="67" clubID="c034" />
+      <Player id="P146" no="8" pos="MF" name="Arturo Vidal" born="22.05.1987" caps="54" clubID="c134" />
+      <Player id="P147" no="9" pos="FW" name="Mauricio Pinilla" born="04.02.1984" caps="27" clubID="c054" />
+      <Player id="P148" no="10" pos="MF" name="Jorge Valdivia" born="03.10.1983" caps="57" clubID="c194" />
+      <Player id="P149" no="11" pos="FW" name="Eduardo Vargas" born="20.11.1989" caps="30" clubID="c275" />
+      <Player id="P150" no="12" pos="GK" name="Cristopher Toselli" born="22.06.1988" caps="4" clubID="c270" />
+      <Player id="P151" no="13" pos="DF" name="José Rojas" born="03.06.1983" caps="19" clubID="c271" />
+      <Player id="P152" no="14" pos="MF" name="Fabián Orellana" born="27.01.1986" caps="26" clubID="c059" />
+      <Player id="P153" no="15" pos="MF" name="Jean Beausejour" born="03.06.1984" caps="59" clubID="c293" />
+      <Player id="P154" no="16" pos="MF" name="Felipe Gutiérrez" born="08.10.1990" caps="18" clubID="c265" />
+      <Player id="P155" no="17" pos="DF" name="Gary Medel" born="03.08.1987" caps="61" clubID="c055" />
+      <Player id="P156" no="18" pos="DF" name="Gonzalo Jara" born="29.08.1985" caps="65" clubID="c187" />
+      <Player id="P157" no="19" pos="MF" name="José Pedro Fuenzalida" born="22.02.1985" caps="23" clubID="c068" />
+      <Player id="P158" no="20" pos="MF" name="Charles Aránguiz" born="17.04.1989" caps="21" clubID="c129" />
+      <Player id="P159" no="21" pos="MF" name="Marcelo Díaz" born="30.12.1986" caps="21" clubID="c036" />
+      <Player id="P160" no="22" pos="FW" name="Esteban Paredes" born="01.08.1980" caps="35" clubID="c068" />
+      <Player id="P161" no="23" pos="GK" name="Johnny Herrera" born="09.05.1981" caps="8" clubID="c271" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="CIV" coachName="Sabri Lamouchi" coachNationality="FRA">
+      <Player id="P162" no="1" pos="GK" name="Boubacar Barry" born="30.12.1979" caps="77" clubID="c153" />
+      <Player id="P163" no="2" pos="DF" name="Ousmane Viera" born="21.12.1986" caps="1" clubID="c058" />
+      <Player id="P164" no="3" pos="DF" name="Arthur Boka" born="02.04.1983" caps="78" clubID="c281" />
+      <Player id="P165" no="4" pos="DF" name="Kolo Touré" born="19.03.1981" caps="107" clubID="c151" />
+      <Player id="P166" no="5" pos="DF" name="Didier Zokora" born="14.12.1980" caps="119" clubID="c263" />
+      <Player id="P167" no="6" pos="FW" name="Mathis Bolly" born="14.11.1990" caps="4" clubID="c104" />
+      <Player id="P168" no="7" pos="DF" name="Jean-Daniel Akpa-Akpro" born="11.10.1992" caps="1" clubID="c262" />
+      <Player id="P169" no="8" pos="FW" name="Salomon Kalou" born="05.08.1985" caps="67" clubID="c150" />
+      <Player id="P170" no="9" pos="MF" name="Cheick Tioté" born="21.06.1986" caps="43" clubID="c183" />
+      <Player id="P171" no="10" pos="FW" name="Gervinho" born="27.05.1987" caps="53" clubID="c215" />
+      <Player id="P172" no="11" pos="FW" name="Didier Drogba" born="11.03.1978" caps="101" clubID="c107" />
+      <Player id="P173" no="12" pos="FW" name="Wilfried Bony" born="10.12.1988" caps="24" clubID="c254" />
+      <Player id="P174" no="13" pos="FW" name="Didier Ya Konan" born="22.05.1984" caps="25" clubID="c120" />
+      <Player id="P175" no="14" pos="MF" name="Ismaël Diomandé" born="28.08.1992" caps="2" clubID="c219" />
+      <Player id="P176" no="15" pos="FW" name="Max Gradel" born="30.11.1987" caps="26" clubID="c219" />
+      <Player id="P177" no="16" pos="GK" name="Sylvain Gbohouo" born="29.10.1988" caps="2" clubID="c236" />
+      <Player id="P178" no="17" pos="DF" name="Serge Aurier" born="24.12.1992" caps="8" clubID="c262" />
+      <Player id="P179" no="18" pos="DF" name="Constant Djakpa" born="17.10.1986" caps="5" clubID="c083" />
+      <Player id="P180" no="19" pos="MF" name="Yaya Touré" born="13.05.1983" caps="82" clubID="c164" />
+      <Player id="P181" no="20" pos="MF" name="Serey Die" born="07.11.1984" caps="7" clubID="c036" />
+      <Player id="P182" no="21" pos="FW" name="Giovanni Sio" born="31.03.1989" caps="7" clubID="c036" />
+      <Player id="P183" no="22" pos="DF" name="Sol Bamba" born="13.01.1985" caps="43" clubID="c263" />
+      <Player id="P184" no="23" pos="GK" name="Sayouba Mandé" born="15.06.1993" caps="1" clubID="c246" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="CMR" coachName="Volker Finke" coachNationality="GER">
+      <Player id="P185" no="1" pos="GK" name="Loïc Feudjou" born="14.04.1992" caps="2" clubID="c072" />
+      <Player id="P186" no="2" pos="DF" name="Benoît Assou-Ekotto" born="24.03.1984" caps="22" clubID="c206" />
+      <Player id="P187" no="3" pos="DF" name="Nicolas N'Koulou" born="27.03.1990" caps="48" clubID="c166" />
+      <Player id="P188" no="4" pos="DF" name="Cédric Djeugoué" born="28.08.1992" caps="3" clubID="c072" />
+      <Player id="P189" no="5" pos="DF" name="Dany Nounkeu" born="11.04.1986" caps="16" clubID="c042" />
+      <Player id="P190" no="6" pos="MF" name="Alex Song" born="09.09.1987" caps="47" clubID="c034" />
+      <Player id="P191" no="7" pos="MF" name="Landry N'Guémo" born="28.11.1985" caps="40" clubID="c047" />
+      <Player id="P192" no="8" pos="FW" name="Benjamin Moukandjo" born="12.11.1988" caps="17" clubID="c176" />
+      <Player id="P193" no="9" pos="FW" name="Samuel Eto'o" born="10.03.1981" caps="117" clubID="c064" />
+      <Player id="P194" no="10" pos="FW" name="Vincent Aboubakar" born="22.01.1992" caps="24" clubID="c156" />
+      <Player id="P195" no="11" pos="MF" name="Jean Makoun" born="29.05.1983" caps="66" clubID="c213" />
+      <Player id="P196" no="12" pos="DF" name="Henri Bedimo" born="04.06.1984" caps="31" clubID="c159" />
+      <Player id="P197" no="13" pos="FW" name="Maxim Choupo-Moting" born="23.03.1989" caps="26" clubID="c160" />
+      <Player id="P198" no="14" pos="DF" name="Aurélien Chedjou" born="20.06.1985" caps="31" clubID="c107" />
+      <Player id="P199" no="15" pos="FW" name="Pierre Webó" born="20.01.1982" caps="56" clubID="c096" />
+      <Player id="P200" no="16" pos="GK" name="Charles Itandje" born="02.11.1982" caps="9" clubID="c139" />
+      <Player id="P201" no="17" pos="MF" name="Stéphane Mbia" born="20.05.1986" caps="49" clubID="c235" />
+      <Player id="P202" no="18" pos="MF" name="Eyong Enoh" born="23.03.1986" caps="38" clubID="c020" />
+      <Player id="P203" no="19" pos="FW" name="Fabrice Olinga" born="12.05.1996" caps="8" clubID="c299" />
+      <Player id="P204" no="20" pos="MF" name="Edgar Salli" born="17.08.1992" caps="9" clubID="c146" />
+      <Player id="P205" no="21" pos="MF" name="Joël Matip" born="08.08.1991" caps="23" clubID="c232" />
+      <Player id="P206" no="22" pos="DF" name="Allan Nyom" born="10.05.1988" caps="10" clubID="c113" />
+      <Player id="P207" no="23" pos="GK" name="Sammy N'Djock" born="25.02.1990" caps="3" clubID="c098" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="COL" coachName="José Pékerman" coachNationality="ARG">
+      <Player id="P208" no="1" pos="GK" name="David Ospina" born="31.08.1988" caps="44" clubID="c185" />
+      <Player id="P209" no="2" pos="DF" name="Cristián Zapata" born="30.09.1986" caps="24" clubID="c169" />
+      <Player id="P210" no="3" pos="DF" name="Mario Yepes" born="13.01.1976" caps="98" clubID="c026" />
+      <Player id="P211" no="4" pos="DF" name="Santiago Arias" born="13.01.1992" caps="6" clubID="c203" />
+      <Player id="P212" no="5" pos="MF" name="Carlos Carbonero" born="25.07.1990" caps="1" clubID="c214" />
+      <Player id="P213" no="6" pos="MF" name="Carlos Sánchez" born="06.02.1986" caps="44" clubID="c086" />
+      <Player id="P214" no="7" pos="DF" name="Pablo Armero" born="02.11.1986" caps="53" clubID="c291" />
+      <Player id="P215" no="8" pos="MF" name="Abel Aguilar" born="06.01.1985" caps="49" clubID="c262" />
+      <Player id="P216" no="9" pos="FW" name="Teófilo Gutiérrez" born="17.05.1985" caps="30" clubID="c214" />
+      <Player id="P217" no="10" pos="MF" name="James Rodríguez" born="12.07.1991" caps="22" clubID="c023" />
+      <Player id="P218" no="11" pos="MF" name="Juan Guillermo Cuadrado" born="26.05.1988" caps="28" clubID="c100" />
+      <Player id="P219" no="12" pos="GK" name="Camilo Vargas" born="09.03.1989" caps="0" clubID="c225" />
+      <Player id="P220" no="13" pos="MF" name="Fredy Guarín" born="30.06.1986" caps="49" clubID="c130" />
+      <Player id="P221" no="14" pos="FW" name="Víctor Ibarbo" born="19.05.1990" caps="9" clubID="c054" />
+      <Player id="P222" no="15" pos="MF" name="Alexander Mejía" born="11.07.1988" caps="8" clubID="c030" />
+      <Player id="P223" no="16" pos="DF" name="Éder Álvarez Balanta" born="28.02.1993" caps="3" clubID="c214" />
+      <Player id="P224" no="17" pos="FW" name="Carlos Bacca" born="08.09.1986" caps="11" clubID="c235" />
+      <Player id="P225" no="18" pos="DF" name="Juan Camilo Zúñiga" born="14.12.1985" caps="50" clubID="c178" />
+      <Player id="P226" no="19" pos="FW" name="Adrián Ramos" born="22.01.1986" caps="26" clubID="c125" />
+      <Player id="P227" no="20" pos="MF" name="Juan Fernando Quintero" born="18.01.1993" caps="4" clubID="c201" />
+      <Player id="P228" no="21" pos="FW" name="Jackson Martínez" born="03.10.1986" caps="27" clubID="c201" />
+      <Player id="P229" no="22" pos="GK" name="Faryd Mondragón" born="21.06.1971" caps="50" clubID="c078" />
+      <Player id="P230" no="23" pos="DF" name="Carlos Valdés" born="22.05.1985" caps="14" clubID="c222" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="CRC" coachName="Jorge Luis Pinto" coachNationality="ECU">
+      <Player id="P231" no="1" pos="GK" name="Keylor Navas" born="15.12.1986" caps="53" clubID="c148" />
+      <Player id="P232" no="2" pos="DF" name="Johnny Acosta" born="21.07.1983" caps="25" clubID="c012" />
+      <Player id="P233" no="3" pos="DF" name="Giancarlo González" born="08.02.1988" caps="35" clubID="c069" />
+      <Player id="P234" no="4" pos="DF" name="Michael Umaña" born="16.07.1982" caps="83" clubID="c229" />
+      <Player id="P235" no="5" pos="MF" name="Celso Borges" born="27.05.1988" caps="63" clubID="c008" />
+      <Player id="P236" no="6" pos="DF" name="Óscar Duarte" born="03.06.1989" caps="11" clubID="c067" />
+      <Player id="P237" no="7" pos="MF" name="Christian Bolaños" born="17.05.1984" caps="55" clubID="c070" />
+      <Player id="P238" no="8" pos="DF" name="David Myrie" born="01.06.1988" caps="10" clubID="c124" />
+      <Player id="P239" no="9" pos="FW" name="Joel Campbell" born="26.06.1992" caps="33" clubID="c189" />
+      <Player id="P240" no="10" pos="FW" name="Bryan Ruiz" born="18.08.1985" caps="63" clubID="c203" />
+      <Player id="P241" no="11" pos="MF" name="Michael Barrantes" born="04.10.1983" caps="50" clubID="c004" />
+      <Player id="P242" no="12" pos="DF" name="Waylon Francis" born="20.09.1990" caps="1" clubID="c069" />
+      <Player id="P243" no="13" pos="MF" name="Esteban Granados" born="25.10.1985" caps="11" clubID="c124" />
+      <Player id="P244" no="14" pos="FW" name="Randall Brenes" born="13.08.1983" caps="39" clubID="c056" />
+      <Player id="P245" no="15" pos="DF" name="Júnior Díaz" born="12.09.1983" caps="62" clubID="c160" />
+      <Player id="P246" no="16" pos="DF" name="Cristian Gamboa" born="24.10.1989" caps="25" clubID="c216" />
+      <Player id="P247" no="17" pos="MF" name="Yeltsin Tejeda" born="17.03.1992" caps="22" clubID="c229" />
+      <Player id="P248" no="18" pos="GK" name="Patrick Pemberton" born="24.04.1982" caps="21" clubID="c012" />
+      <Player id="P249" no="19" pos="DF" name="Roy Miller" born="24.11.1984" caps="48" clubID="c181" />
+      <Player id="P250" no="20" pos="MF" name="Diego Calvo" born="25.03.1991" caps="10" clubID="c277" />
+      <Player id="P251" no="21" pos="FW" name="Marco Ureña" born="05.03.1990" caps="24" clubID="c140" />
+      <Player id="P252" no="22" pos="MF" name="José Miguel Cubero" born="14.02.1987" caps="35" clubID="c124" />
+      <Player id="P253" no="23" pos="GK" name="Daniel Cambronero" born="08.01.1986" caps="4" clubID="c124" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="CRO" coachName="Niko Kovač" coachNationality="CRO">
+      <Player id="P254" no="1" pos="GK" name="Stipe Pletikosa" born="08.01.1979" caps="111" clubID="c217" />
+      <Player id="P255" no="2" pos="DF" name="Šime Vrsaljko" born="10.01.1992" caps="7" clubID="c110" />
+      <Player id="P256" no="3" pos="DF" name="Danijel Pranjić" born="02.12.1981" caps="50" clubID="c195" />
+      <Player id="P257" no="4" pos="MF" name="Ivan Perišić" born="02.02.1989" caps="29" clubID="c282" />
+      <Player id="P258" no="5" pos="DF" name="Vedran Ćorluka" born="05.02.1986" caps="72" clubID="c154" />
+      <Player id="P259" no="6" pos="DF" name="Dejan Lovren" born="05.07.1989" caps="25" clubID="c241" />
+      <Player id="P260" no="7" pos="MF" name="Ivan Rakitić" born="10.03.1988" caps="62" clubID="c235" />
+      <Player id="P261" no="8" pos="MF" name="Ognjen Vukojević" born="20.12.1983" caps="55" clubID="c080" />
+      <Player id="P262" no="9" pos="FW" name="Nikica Jelavić" born="27.08.1985" caps="33" clubID="c128" />
+      <Player id="P263" no="10" pos="MF" name="Luka Modrić" born="09.09.1985" caps="75" clubID="c208" />
+      <Player id="P264" no="11" pos="DF" name="Darijo Srna" born="01.05.1982" caps="112" clubID="c237" />
+      <Player id="P265" no="12" pos="GK" name="Oliver Zelenika" born="14.05.1993" caps="0" clubID="c155" />
+      <Player id="P266" no="13" pos="DF" name="Gordon Schildenfeld" born="18.03.1985" caps="21" clubID="c195" />
+      <Player id="P267" no="14" pos="MF" name="Marcelo Brozović" born="16.10.1992" caps="1" clubID="c079" />
+      <Player id="P268" no="15" pos="MF" name="Milan Badelj" born="25.02.1989" caps="9" clubID="c119" />
+      <Player id="P269" no="16" pos="FW" name="Ante Rebić" born="21.09.1993" caps="5" clubID="c100" />
+      <Player id="P270" no="17" pos="FW" name="Mario Mandžukić" born="21.05.1986" caps="50" clubID="c039" />
+      <Player id="P271" no="18" pos="FW" name="Ivica Olić" born="14.09.1979" caps="92" clubID="c282" />
+      <Player id="P272" no="19" pos="MF" name="Sammir" born="23.04.1987" caps="6" clubID="c111" />
+      <Player id="P273" no="20" pos="MF" name="Mateo Kovačić" born="06.05.1994" caps="10" clubID="c130" />
+      <Player id="P274" no="21" pos="DF" name="Domagoj Vida" born="29.04.1989" caps="23" clubID="c080" />
+      <Player id="P275" no="22" pos="FW" name="Eduardo" born="25.02.1983" caps="63" clubID="c237" />
+      <Player id="P276" no="23" pos="GK" name="Danijel Subašić" born="27.10.1984" caps="6" clubID="c023" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="ECU" coachName="Reinaldo Rueda" coachNationality="COL">
+      <Player id="P277" no="1" pos="GK" name="Máximo Banguera" born="16.12.1985" caps="25" clubID="c035" />
+      <Player id="P278" no="2" pos="DF" name="Jorge Guagua" born="28.09.1981" caps="59" clubID="c087" />
+      <Player id="P279" no="3" pos="DF" name="Frickson Erazo" born="05.05.1988" caps="37" clubID="c101" />
+      <Player id="P280" no="4" pos="DF" name="Juan Carlos Paredes" born="08.07.1987" caps="38" clubID="c035" />
+      <Player id="P281" no="5" pos="MF" name="Renato Ibarra" born="20.01.1991" caps="18" clubID="c285" />
+      <Player id="P282" no="6" pos="MF" name="Christian Noboa" born="09.04.1985" caps="42" clubID="c081" />
+      <Player id="P283" no="7" pos="MF" name="Jefferson Montero" born="01.09.1989" caps="40" clubID="c172" />
+      <Player id="P284" no="8" pos="MF" name="Édison Méndez" born="15.03.1979" caps="110" clubID="c225" />
+      <Player id="P285" no="9" pos="MF" name="Joao Rojas" born="14.06.1989" caps="30" clubID="c073" />
+      <Player id="P286" no="10" pos="DF" name="Walter Ayoví" born="11.08.1979" caps="90" clubID="c192" />
+      <Player id="P287" no="11" pos="FW" name="Felipe Caicedo" born="05.09.1988" caps="50" clubID="c015" />
+      <Player id="P288" no="12" pos="GK" name="Adrián Bone" born="08.09.1988" caps="3" clubID="c084" />
+      <Player id="P289" no="13" pos="FW" name="Enner Valencia" born="11.04.1989" caps="10" clubID="c192" />
+      <Player id="P290" no="14" pos="MF" name="Oswaldo Minda" born="26.07.1983" caps="18" clubID="c065" />
+      <Player id="P291" no="15" pos="MF" name="Michael Arroyo" born="23.04.1987" caps="21" clubID="c027" />
+      <Player id="P292" no="16" pos="MF" name="Antonio Valencia" born="04.08.1985" caps="71" clubID="c165" />
+      <Player id="P293" no="17" pos="FW" name="Jaime Ayoví" born="21.02.1988" caps="30" clubID="c257" />
+      <Player id="P294" no="18" pos="DF" name="Óscar Bagüí" born="10.12.1982" caps="21" clubID="c087" />
+      <Player id="P295" no="19" pos="MF" name="Luis Saritama" born="20.10.1983" caps="49" clubID="c035" />
+      <Player id="P296" no="20" pos="MF" name="Fidel Martínez" born="15.02.1990" caps="8" clubID="c257" />
+      <Player id="P297" no="21" pos="DF" name="Gabriel Achilier" born="24.03.1985" caps="23" clubID="c087" />
+      <Player id="P298" no="22" pos="GK" name="Alexander Domínguez" born="05.06.1987" caps="18" clubID="c143" />
+      <Player id="P299" no="23" pos="MF" name="Carlos Gruezo" born="19.04.1995" caps="3" clubID="c281" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="ENG" coachName="Roy Hodgson" coachNationality="ENG">
+      <Player id="P300" no="1" pos="GK" name="Joe Hart" born="19.05.1987" caps="41" clubID="c164" />
+      <Player id="P301" no="2" pos="DF" name="Glen Johnson" born="23.08.1984" caps="52" clubID="c151" />
+      <Player id="P302" no="3" pos="DF" name="Leighton Baines" born="11.12.1984" caps="24" clubID="c092" />
+      <Player id="P303" no="4" pos="MF" name="Steven Gerrard" born="30.05.1980" caps="111" clubID="c151" />
+      <Player id="P304" no="5" pos="DF" name="Gary Cahill" born="19.12.1985" caps="24" clubID="c064" />
+      <Player id="P305" no="6" pos="DF" name="Phil Jagielka" born="17.08.1982" caps="26" clubID="c092" />
+      <Player id="P306" no="7" pos="MF" name="Jack Wilshere" born="01.01.1992" caps="18" clubID="c022" />
+      <Player id="P307" no="8" pos="MF" name="Frank Lampard" born="20.06.1978" caps="105" clubID="c064" />
+      <Player id="P308" no="9" pos="FW" name="Daniel Sturridge" born="01.09.1989" caps="12" clubID="c151" />
+      <Player id="P309" no="10" pos="FW" name="Wayne Rooney" born="24.10.1985" caps="92" clubID="c165" />
+      <Player id="P310" no="11" pos="FW" name="Danny Welbeck" born="26.11.1990" caps="24" clubID="c165" />
+      <Player id="P311" no="12" pos="DF" name="Chris Smalling" born="22.11.1989" caps="12" clubID="c165" />
+      <Player id="P312" no="13" pos="GK" name="Ben Foster" born="03.05.1983" caps="7" clubID="c290" />
+      <Player id="P313" no="14" pos="MF" name="Jordan Henderson" born="17.06.1990" caps="11" clubID="c151" />
+      <Player id="P314" no="15" pos="MF" name="Alex Oxlade-Chamberlain" born="15.08.1993" caps="15" clubID="c022" />
+      <Player id="P315" no="16" pos="DF" name="Phil Jones" born="21.02.1992" caps="10" clubID="c165" />
+      <Player id="P316" no="17" pos="MF" name="James Milner" born="04.01.1986" caps="47" clubID="c164" />
+      <Player id="P317" no="18" pos="FW" name="Rickie Lambert" born="16.02.1982" caps="6" clubID="c241" />
+      <Player id="P318" no="19" pos="MF" name="Raheem Sterling" born="08.12.1994" caps="4" clubID="c151" />
+      <Player id="P319" no="20" pos="MF" name="Adam Lallana" born="10.05.1988" caps="6" clubID="c241" />
+      <Player id="P320" no="21" pos="MF" name="Ross Barkley" born="05.12.1993" caps="6" clubID="c092" />
+      <Player id="P321" no="22" pos="GK" name="Fraser Forster" born="17.03.1988" caps="2" clubID="c060" />
+      <Player id="P322" no="23" pos="DF" name="Luke Shaw" born="12.07.1995" caps="2" clubID="c241" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="ESP" coachName="Vicente del Bosque" coachNationality="ESP">
+      <Player id="P323" no="1" pos="GK" name="Iker Casillas" born="20.05.1981" caps="154" clubID="c208" />
+      <Player id="P324" no="2" pos="DF" name="Raúl Albiol" born="04.09.1985" caps="46" clubID="c178" />
+      <Player id="P325" no="3" pos="DF" name="Gerard Piqué" born="02.02.1987" caps="60" clubID="c034" />
+      <Player id="P326" no="4" pos="MF" name="Javi Martínez" born="02.09.1988" caps="17" clubID="c039" />
+      <Player id="P327" no="5" pos="DF" name="Juanfran" born="09.01.1985" caps="8" clubID="c028" />
+      <Player id="P328" no="6" pos="MF" name="Andrés Iniesta" born="11.05.1984" caps="97" clubID="c034" />
+      <Player id="P329" no="7" pos="FW" name="David Villa" born="03.12.1981" caps="96" clubID="c028" />
+      <Player id="P330" no="8" pos="MF" name="Xavi" born="25.01.1980" caps="132" clubID="c034" />
+      <Player id="P331" no="9" pos="FW" name="Fernando Torres" born="20.03.1984" caps="107" clubID="c064" />
+      <Player id="P332" no="10" pos="MF" name="Cesc Fàbregas" born="04.05.1987" caps="89" clubID="c034" />
+      <Player id="P333" no="11" pos="FW" name="Pedro" born="28.07.1987" caps="40" clubID="c034" />
+      <Player id="P334" no="12" pos="GK" name="David de Gea" born="07.11.1990" caps="1" clubID="c165" />
+      <Player id="P335" no="13" pos="MF" name="Juan Mata" born="28.04.1988" caps="33" clubID="c165" />
+      <Player id="P336" no="14" pos="MF" name="Xabi Alonso" born="25.11.1981" caps="111" clubID="c208" />
+      <Player id="P337" no="15" pos="DF" name="Sergio Ramos" born="30.03.1986" caps="117" clubID="c208" />
+      <Player id="P338" no="16" pos="MF" name="Sergio Busquets" born="16.07.1988" caps="65" clubID="c034" />
+      <Player id="P339" no="17" pos="MF" name="Koke" born="08.01.1992" caps="8" clubID="c028" />
+      <Player id="P340" no="18" pos="DF" name="Jordi Alba" born="21.03.1989" caps="26" clubID="c034" />
+      <Player id="P341" no="19" pos="FW" name="Diego Costa" born="07.10.1988" caps="2" clubID="c028" />
+      <Player id="P342" no="20" pos="MF" name="Santi Cazorla" born="13.12.1984" caps="64" clubID="c022" />
+      <Player id="P343" no="21" pos="MF" name="David Silva" born="08.01.1986" caps="80" clubID="c164" />
+      <Player id="P344" no="22" pos="DF" name="César Azpilicueta" born="28.08.1989" caps="6" clubID="c064" />
+      <Player id="P345" no="23" pos="GK" name="Pepe Reina" born="31.08.1982" caps="32" clubID="c178" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="FRA" coachName="Didier Deschamps" coachNationality="FRA">
+      <Player id="P346" no="1" pos="GK" name="Hugo Lloris" born="26.12.1986" caps="57" clubID="c261" />
+      <Player id="P347" no="2" pos="DF" name="Mathieu Debuchy" born="28.07.1985" caps="21" clubID="c183" />
+      <Player id="P348" no="3" pos="DF" name="Patrice Evra" born="15.05.1981" caps="58" clubID="c165" />
+      <Player id="P349" no="4" pos="DF" name="Raphaël Varane" born="25.04.1993" caps="6" clubID="c208" />
+      <Player id="P350" no="5" pos="DF" name="Mamadou Sakho" born="13.02.1990" caps="19" clubID="c151" />
+      <Player id="P351" no="6" pos="MF" name="Yohan Cabaye" born="14.01.1986" caps="30" clubID="c197" />
+      <Player id="P352" no="7" pos="MF" name="Rémy Cabella" born="08.03.1990" caps="1" clubID="c171" />
+      <Player id="P353" no="8" pos="MF" name="Mathieu Valbuena" born="28.09.1984" caps="34" clubID="c166" />
+      <Player id="P354" no="9" pos="FW" name="Olivier Giroud" born="30.09.1986" caps="30" clubID="c022" />
+      <Player id="P355" no="10" pos="FW" name="Karim Benzema" born="19.12.1987" caps="66" clubID="c208" />
+      <Player id="P356" no="11" pos="MF" name="Antoine Griezmann" born="21.03.1991" caps="4" clubID="c211" />
+      <Player id="P357" no="12" pos="MF" name="Rio Mavuba" born="08.03.1984" caps="12" clubID="c150" />
+      <Player id="P358" no="13" pos="DF" name="Eliaquim Mangala" born="13.02.1991" caps="3" clubID="c201" />
+      <Player id="P359" no="14" pos="MF" name="Blaise Matuidi" born="09.04.1987" caps="23" clubID="c197" />
+      <Player id="P360" no="15" pos="DF" name="Bacary Sagna" born="14.02.1983" caps="41" clubID="c022" />
+      <Player id="P361" no="16" pos="GK" name="Stéphane Ruffier" born="27.09.1986" caps="2" clubID="c219" />
+      <Player id="P362" no="17" pos="DF" name="Lucas Digne" born="20.07.1993" caps="2" clubID="c197" />
+      <Player id="P363" no="18" pos="MF" name="Moussa Sissoko" born="16.08.1989" caps="17" clubID="c183" />
+      <Player id="P364" no="19" pos="MF" name="Paul Pogba" born="15.03.1993" caps="11" clubID="c134" />
+      <Player id="P365" no="20" pos="FW" name="Loïc Rémy" born="02.01.1987" caps="25" clubID="c183" />
+      <Player id="P366" no="21" pos="DF" name="Laurent Koscielny" born="10.09.1985" caps="17" clubID="c022" />
+      <Player id="P367" no="22" pos="MF" name="Morgan Schneiderlin" born="08.11.1989" caps="1" clubID="c241" />
+      <Player id="P368" no="23" pos="GK" name="Mickaël Landreau" born="14.05.1979" caps="11" clubID="c037" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="GER" coachName="Joachim Löw" coachNationality="GER">
+      <Player id="P369" no="1" pos="GK" name="Manuel Neuer" born="27.03.1986" caps="45" clubID="c039" />
+      <Player id="P370" no="2" pos="DF" name="Kevin Großkreutz" born="19.07.1988" caps="5" clubID="c048" />
+      <Player id="P371" no="3" pos="DF" name="Matthias Ginter" born="19.01.1994" caps="2" clubID="c231" />
+      <Player id="P372" no="4" pos="DF" name="Benedikt Höwedes" born="29.02.1988" caps="21" clubID="c232" />
+      <Player id="P373" no="5" pos="DF" name="Mats Hummels" born="16.12.1988" caps="30" clubID="c048" />
+      <Player id="P374" no="6" pos="MF" name="Sami Khedira" born="04.04.1987" caps="46" clubID="c208" />
+      <Player id="P375" no="7" pos="MF" name="Bastian Schweinsteiger" born="01.08.1984" caps="102" clubID="c039" />
+      <Player id="P376" no="8" pos="MF" name="Mesut Özil" born="15.10.1988" caps="55" clubID="c022" />
+      <Player id="P377" no="9" pos="MF" name="André Schürrle" born="06.11.1990" caps="33" clubID="c064" />
+      <Player id="P378" no="10" pos="FW" name="Lukas Podolski" born="04.06.1985" caps="114" clubID="c022" />
+      <Player id="P379" no="11" pos="FW" name="Miroslav Klose" born="09.06.1978" caps="132" clubID="c142" />
+      <Player id="P380" no="12" pos="GK" name="Ron-Robert Zieler" born="12.02.1989" caps="3" clubID="c120" />
+      <Player id="P381" no="13" pos="MF" name="Thomas Müller" born="13.09.1989" caps="49" clubID="c039" />
+      <Player id="P382" no="14" pos="MF" name="Julian Draxler" born="20.09.1993" caps="11" clubID="c232" />
+      <Player id="P383" no="15" pos="DF" name="Erik Durm" born="12.05.1992" caps="1" clubID="c048" />
+      <Player id="P384" no="16" pos="DF" name="Philipp Lahm" born="11.11.1983" caps="106" clubID="c039" />
+      <Player id="P385" no="17" pos="DF" name="Per Mertesacker" born="29.09.1984" caps="98" clubID="c022" />
+      <Player id="P386" no="18" pos="MF" name="Toni Kroos" born="04.01.1990" caps="44" clubID="c039" />
+      <Player id="P387" no="19" pos="MF" name="Mario Götze" born="03.06.1992" caps="29" clubID="c039" />
+      <Player id="P388" no="20" pos="DF" name="Jérôme Boateng" born="03.09.1988" caps="39" clubID="c039" />
+      <Player id="P389" no="21" pos="DF" name="Shkodran Mustafi" born="17.04.1992" caps="1" clubID="c220" />
+      <Player id="P390" no="22" pos="GK" name="Roman Weidenfeller" born="06.08.1980" caps="3" clubID="c048" />
+      <Player id="P391" no="23" pos="MF" name="Christoph Kramer" born="12.02.1991" caps="2" clubID="c049" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="GHA" coachName="James Kwesi Appiah" coachNationality="GHA">
+      <Player id="P392" no="1" pos="GK" name="Stephen Adams" born="28.09.1989" caps="7" clubID="c007" />
+      <Player id="P393" no="2" pos="DF" name="Samuel Inkoom" born="01.06.1989" caps="46" clubID="c200" />
+      <Player id="P394" no="3" pos="FW" name="Asamoah Gyan" born="22.11.1985" caps="79" clubID="c011" />
+      <Player id="P395" no="4" pos="DF" name="Daniel Opare" born="18.10.1990" caps="16" clubID="c247" />
+      <Player id="P396" no="5" pos="MF" name="Michael Essien" born="03.12.1982" caps="57" clubID="c169" />
+      <Player id="P397" no="6" pos="MF" name="Afriyie Acquah" born="05.01.1992" caps="5" clubID="c198" />
+      <Player id="P398" no="7" pos="MF" name="Christian Atsu" born="10.01.1992" caps="23" clubID="c285" />
+      <Player id="P399" no="8" pos="MF" name="Emmanuel Agyemang-Badu" born="02.12.1990" caps="49" clubID="c267" />
+      <Player id="P400" no="9" pos="FW" name="Kevin-Prince Boateng" born="06.03.1987" caps="13" clubID="c232" />
+      <Player id="P401" no="10" pos="MF" name="André Ayew" born="17.12.1989" caps="49" clubID="c166" />
+      <Player id="P402" no="11" pos="MF" name="Sulley Muntari" born="27.08.1984" caps="82" clubID="c169" />
+      <Player id="P403" no="12" pos="GK" name="Adam Kwarasey" born="12.12.1987" caps="21" clubID="c249" />
+      <Player id="P404" no="13" pos="FW" name="Jordan Ayew" born="11.09.1991" caps="13" clubID="c240" />
+      <Player id="P405" no="14" pos="MF" name="Albert Adomah" born="13.12.1987" caps="15" clubID="c168" />
+      <Player id="P406" no="15" pos="DF" name="Rashid Sumaila" born="18.12.1992" caps="6" clubID="c163" />
+      <Player id="P407" no="16" pos="GK" name="Fatau Dauda" born="06.04.1985" caps="18" clubID="c190" />
+      <Player id="P408" no="17" pos="MF" name="Mohammed Rabiu" born="31.12.1989" caps="17" clubID="c140" />
+      <Player id="P409" no="18" pos="FW" name="Majeed Waris" born="19.09.1991" caps="13" clubID="c276" />
+      <Player id="P410" no="19" pos="DF" name="Jonathan Mensah" born="13.07.1990" caps="27" clubID="c093" />
+      <Player id="P411" no="20" pos="MF" name="Kwadwo Asamoah" born="09.12.1988" caps="62" clubID="c134" />
+      <Player id="P412" no="21" pos="DF" name="John Boye" born="23.04.1987" caps="30" clubID="c213" />
+      <Player id="P413" no="22" pos="MF" name="Wakaso Mubarak" born="25.07.1990" caps="17" clubID="c218" />
+      <Player id="P414" no="23" pos="DF" name="Harrison Afful" born="24.06.1986" caps="41" clubID="c090" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="GRE" coachName="Fernando Santos" coachNationality="POR">
+      <Player id="P415" no="1" pos="GK" name="Orestis Karnezis" born="11.07.1985" caps="19" clubID="c113" />
+      <Player id="P416" no="2" pos="MF" name="Giannis Maniatis" born="12.10.1986" caps="30" clubID="c189" />
+      <Player id="P417" no="3" pos="DF" name="Giorgos Tzavellas" born="26.11.1987" caps="13" clubID="c196" />
+      <Player id="P418" no="4" pos="DF" name="Kostas Manolas" born="14.06.1991" caps="9" clubID="c189" />
+      <Player id="P419" no="5" pos="DF" name="Vangelis Moras" born="26.08.1981" caps="19" clubID="c280" />
+      <Player id="P420" no="6" pos="MF" name="Alexandros Tziolis" born="13.02.1985" caps="49" clubID="c138" />
+      <Player id="P421" no="7" pos="FW" name="Giorgos Samaras" born="21.02.1985" caps="74" clubID="c060" />
+      <Player id="P422" no="8" pos="MF" name="Panagiotis Kone" born="26.07.1987" caps="16" clubID="c044" />
+      <Player id="P423" no="9" pos="FW" name="Kostas Mitroglou" born="12.03.1988" caps="32" clubID="c106" />
+      <Player id="P424" no="10" pos="MF" name="Giorgos Karagounis" born="06.03.1977" caps="135" clubID="c106" />
+      <Player id="P425" no="11" pos="DF" name="Loukas Vyntra" born="05.02.1981" caps="50" clubID="c148" />
+      <Player id="P426" no="12" pos="GK" name="Panagiotis Glykos" born="03.06.1986" caps="2" clubID="c196" />
+      <Player id="P427" no="13" pos="GK" name="Stefanos Kapino" born="18.03.1994" caps="2" clubID="c195" />
+      <Player id="P428" no="14" pos="FW" name="Dimitris Salpingidis" born="18.08.1981" caps="76" clubID="c196" />
+      <Player id="P429" no="15" pos="DF" name="Vasilis Torosidis" born="10.06.1985" caps="66" clubID="c215" />
+      <Player id="P430" no="16" pos="MF" name="Lazaros Christodoulopoulos" born="19.12.1986" caps="19" clubID="c044" />
+      <Player id="P431" no="17" pos="FW" name="Theofanis Gekas" born="23.05.1980" caps="72" clubID="c139" />
+      <Player id="P432" no="18" pos="MF" name="Giannis Fetfatzidis" born="21.12.1990" caps="19" clubID="c110" />
+      <Player id="P433" no="19" pos="DF" name="Sokratis Papastathopoulos" born="09.06.1988" caps="47" clubID="c048" />
+      <Player id="P434" no="20" pos="DF" name="José Holebas" born="27.06.1984" caps="22" clubID="c189" />
+      <Player id="P435" no="21" pos="MF" name="Kostas Katsouranis" born="21.06.1979" caps="111" clubID="c196" />
+      <Player id="P436" no="22" pos="MF" name="Andreas Samaris" born="13.06.1989" caps="4" clubID="c189" />
+      <Player id="P437" no="23" pos="MF" name="Panagiotis Tachtsidis" born="15.02.1991" caps="6" clubID="c259" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="HON" coachName="Luis Fernando Suárez" coachNationality="COL">
+      <Player id="P438" no="1" pos="GK" name="Luis López" born="13.09.1993" caps="0" clubID="c207" />
+      <Player id="P439" no="2" pos="DF" name="Osman Chávez" born="29.07.1984" caps="54" clubID="c205" />
+      <Player id="P440" no="3" pos="DF" name="Maynor Figueroa" born="02.05.1983" caps="105" clubID="c128" />
+      <Player id="P441" no="4" pos="DF" name="Juan Pablo Montes" born="26.10.1985" caps="11" clubID="c173" />
+      <Player id="P442" no="5" pos="DF" name="Víctor Bernárdez" born="24.05.1982" caps="78" clubID="c221" />
+      <Player id="P443" no="6" pos="DF" name="Juan Carlos García" born="08.03.1988" caps="34" clubID="c293" />
+      <Player id="P444" no="7" pos="DF" name="Emilio Izaguirre" born="10.05.1986" caps="68" clubID="c060" />
+      <Player id="P445" no="8" pos="MF" name="Wilson Palacios" born="29.07.1984" caps="95" clubID="c248" />
+      <Player id="P446" no="9" pos="FW" name="Jerry Palacios" born="01.11.1981" caps="24" clubID="c012" />
+      <Player id="P447" no="10" pos="MF" name="Mario Martínez" born="30.07.1989" caps="37" clubID="c207" />
+      <Player id="P448" no="11" pos="FW" name="Jerry Bengtson" born="08.04.1987" caps="44" clubID="c180" />
+      <Player id="P449" no="12" pos="MF" name="Edder Delgado" born="20.11.1986" caps="26" clubID="c207" />
+      <Player id="P450" no="13" pos="FW" name="Carlo Costly" born="18.07.1982" caps="70" clubID="c207" />
+      <Player id="P451" no="14" pos="MF" name="Óscar Boniek García" born="04.09.1984" caps="92" clubID="c127" />
+      <Player id="P452" no="15" pos="MF" name="Roger Espinoza" born="25.10.1986" caps="42" clubID="c293" />
+      <Player id="P453" no="16" pos="FW" name="Rony Martínez" born="16.10.1988" caps="12" clubID="c210" />
+      <Player id="P454" no="17" pos="MF" name="Andy Najar" born="16.03.1993" caps="17" clubID="c019" />
+      <Player id="P455" no="18" pos="GK" name="Noel Valladares" born="03.05.1977" caps="122" clubID="c188" />
+      <Player id="P456" no="19" pos="MF" name="Luis Garrido" born="05.11.1990" caps="20" clubID="c188" />
+      <Player id="P457" no="20" pos="MF" name="Jorge Claros" born="08.01.1986" caps="49" clubID="c173" />
+      <Player id="P458" no="21" pos="DF" name="Brayan Beckeles" born="28.11.1985" caps="23" clubID="c188" />
+      <Player id="P459" no="22" pos="GK" name="Donis Escober" born="03.02.1980" caps="26" clubID="c188" />
+      <Player id="P460" no="23" pos="MF" name="Marvin Chávez" born="03.11.1983" caps="42" clubID="c065" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="IRN" coachName="Carlos Queiroz" coachNationality="POR">
+      <Player id="P461" no="1" pos="GK" name="Rahman Ahmadi" born="30.07.1980" caps="10" clubID="c234" />
+      <Player id="P462" no="2" pos="MF" name="Khosro Heydari" born="14.09.1983" caps="49" clubID="c091" />
+      <Player id="P463" no="3" pos="MF" name="Ehsan Hajsafi" born="25.02.1990" caps="62" clubID="c234" />
+      <Player id="P464" no="4" pos="DF" name="Jalal Hosseini" born="03.02.1982" caps="85" clubID="c199" />
+      <Player id="P465" no="5" pos="DF" name="Amir Hossein Sadeghi" born="06.09.1981" caps="17" clubID="c091" />
+      <Player id="P466" no="6" pos="MF" name="Javad Nekounam" born="07.10.1980" caps="140" clubID="c016" />
+      <Player id="P467" no="7" pos="MF" name="Masoud Shojaei" born="09.06.1984" caps="50" clubID="c141" />
+      <Player id="P468" no="8" pos="MF" name="Reza Haghighi" born="01.02.1989" caps="8" clubID="c199" />
+      <Player id="P469" no="9" pos="FW" name="Alireza Jahanbakhsh" born="11.08.1993" caps="7" clubID="c179" />
+      <Player id="P470" no="10" pos="FW" name="Karim Ansarifard" born="03.04.1990" caps="42" clubID="c264" />
+      <Player id="P471" no="11" pos="MF" name="Ghasem Haddadifar" born="12.07.1983" caps="17" clubID="c297" />
+      <Player id="P472" no="12" pos="GK" name="Alireza Haghighi" born="02.05.1988" caps="6" clubID="c243" />
+      <Player id="P473" no="13" pos="DF" name="Hossein Mahini" born="16.09.1986" caps="22" clubID="c199" />
+      <Player id="P474" no="14" pos="MF" name="Andranik Teymourian" born="06.03.1983" caps="79" clubID="c091" />
+      <Player id="P475" no="15" pos="DF" name="Pejman Montazeri" born="06.09.1983" caps="22" clubID="c269" />
+      <Player id="P476" no="16" pos="FW" name="Reza Ghoochannejhad" born="20.09.1987" caps="14" clubID="c063" />
+      <Player id="P477" no="17" pos="DF" name="Ahmad Alenemeh" born="10.10.1982" caps="9" clubID="c175" />
+      <Player id="P478" no="18" pos="MF" name="Bakhtiar Rahmani" born="23.09.1991" caps="4" clubID="c103" />
+      <Player id="P479" no="19" pos="DF" name="Hashem Beikzadeh" born="22.01.1984" caps="17" clubID="c091" />
+      <Player id="P480" no="20" pos="DF" name="Steven Beitashour" born="01.02.1987" caps="6" clubID="c278" />
+      <Player id="P481" no="21" pos="MF" name="Ashkan Dejagah" born="05.07.1986" caps="14" clubID="c106" />
+      <Player id="P482" no="22" pos="GK" name="Daniel Davari" born="06.01.1988" caps="4" clubID="c082" />
+      <Player id="P483" no="23" pos="DF" name="Mehrdad Pouladi" born="26.02.1987" caps="20" clubID="c199" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="ITA" coachName="Cesare Prandelli" coachNationality="ITA">
+      <Player id="P484" no="1" pos="GK" name="Gianluigi Buffon" born="28.01.1978" caps="140" clubID="c134" />
+      <Player id="P485" no="2" pos="DF" name="Mattia De Sciglio" born="20.10.1992" caps="11" clubID="c169" />
+      <Player id="P486" no="3" pos="DF" name="Giorgio Chiellini" born="14.08.1984" caps="68" clubID="c134" />
+      <Player id="P487" no="4" pos="DF" name="Matteo Darmian" born="02.12.1989" caps="1" clubID="c259" />
+      <Player id="P488" no="5" pos="MF" name="Thiago Motta" born="28.08.1982" caps="20" clubID="c197" />
+      <Player id="P489" no="6" pos="MF" name="Antonio Candreva" born="28.02.1987" caps="20" clubID="c142" />
+      <Player id="P490" no="7" pos="DF" name="Ignazio Abate" born="12.11.1986" caps="20" clubID="c169" />
+      <Player id="P491" no="8" pos="MF" name="Claudio Marchisio" born="19.01.1986" caps="44" clubID="c134" />
+      <Player id="P492" no="9" pos="FW" name="Mario Balotelli" born="12.08.1990" caps="30" clubID="c169" />
+      <Player id="P493" no="10" pos="FW" name="Antonio Cassano" born="12.07.1982" caps="37" clubID="c198" />
+      <Player id="P494" no="11" pos="FW" name="Alessio Cerci" born="23.07.1987" caps="12" clubID="c259" />
+      <Player id="P495" no="12" pos="GK" name="Salvatore Sirigu" born="12.01.1987" caps="8" clubID="c197" />
+      <Player id="P496" no="13" pos="GK" name="Mattia Perin" born="10.11.1992" caps="0" clubID="c110" />
+      <Player id="P497" no="14" pos="MF" name="Alberto Aquilani" born="07.07.1984" caps="35" clubID="c100" />
+      <Player id="P498" no="15" pos="DF" name="Andrea Barzagli" born="08.05.1981" caps="47" clubID="c134" />
+      <Player id="P499" no="16" pos="MF" name="Daniele De Rossi" born="24.07.1983" caps="95" clubID="c215" />
+      <Player id="P500" no="17" pos="FW" name="Ciro Immobile" born="20.02.1990" caps="2" clubID="c259" />
+      <Player id="P501" no="18" pos="MF" name="Marco Parolo" born="25.01.1985" caps="4" clubID="c198" />
+      <Player id="P502" no="19" pos="DF" name="Leonardo Bonucci" born="01.05.1987" caps="37" clubID="c134" />
+      <Player id="P503" no="20" pos="DF" name="Gabriel Paletta" born="15.02.1986" caps="2" clubID="c198" />
+      <Player id="P504" no="21" pos="MF" name="Andrea Pirlo" born="19.05.1979" caps="109" clubID="c134" />
+      <Player id="P505" no="22" pos="FW" name="Lorenzo Insigne" born="04.06.1991" caps="5" clubID="c178" />
+      <Player id="P506" no="23" pos="MF" name="Marco Verratti" born="05.11.1992" caps="6" clubID="c197" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="JPN" coachName="Alberto Zaccheroni" coachNationality="ITA">
+      <Player id="P507" no="1" pos="GK" name="Eiji Kawashima" born="20.03.1983" caps="56" clubID="c247" />
+      <Player id="P508" no="2" pos="DF" name="Atsuto Uchida" born="27.03.1988" caps="68" clubID="c232" />
+      <Player id="P509" no="3" pos="DF" name="Gōtoku Sakai" born="14.03.1991" caps="12" clubID="c281" />
+      <Player id="P510" no="4" pos="MF" name="Keisuke Honda" born="13.06.1986" caps="56" clubID="c169" />
+      <Player id="P511" no="5" pos="DF" name="Yuto Nagatomo" born="12.09.1986" caps="70" clubID="c130" />
+      <Player id="P512" no="6" pos="DF" name="Masato Morishige" born="21.05.1987" caps="10" clubID="c094" />
+      <Player id="P513" no="7" pos="MF" name="Yasuhito Endō" born="28.01.1980" caps="144" clubID="c108" />
+      <Player id="P514" no="8" pos="MF" name="Hiroshi Kiyotake" born="12.11.1989" caps="25" clubID="c001" />
+      <Player id="P515" no="9" pos="FW" name="Shinji Okazaki" born="16.04.1986" caps="76" clubID="c160" />
+      <Player id="P516" no="10" pos="MF" name="Shinji Kagawa" born="17.03.1989" caps="57" clubID="c165" />
+      <Player id="P517" no="11" pos="FW" name="Yoichiro Kakitani" born="03.01.1990" caps="12" clubID="c062" />
+      <Player id="P518" no="12" pos="GK" name="Shusaku Nishikawa" born="18.06.1986" caps="13" clubID="c272" />
+      <Player id="P519" no="13" pos="FW" name="Yoshito Ōkubo" born="09.06.1982" caps="57" clubID="c136" />
+      <Player id="P520" no="14" pos="MF" name="Toshihiro Aoyama" born="22.02.1986" caps="6" clubID="c223" />
+      <Player id="P521" no="15" pos="DF" name="Yasuyuki Konno" born="25.01.1983" caps="81" clubID="c108" />
+      <Player id="P522" no="16" pos="MF" name="Hotaru Yamaguchi" born="06.10.1990" caps="12" clubID="c062" />
+      <Player id="P523" no="17" pos="MF" name="Makoto Hasebe" born="18.01.1984" caps="78" clubID="c001" />
+      <Player id="P524" no="18" pos="FW" name="Yuya Osako" born="18.05.1990" caps="9" clubID="c002" />
+      <Player id="P525" no="19" pos="DF" name="Masahiko Inoha" born="28.08.1983" caps="21" clubID="c133" />
+      <Player id="P526" no="20" pos="FW" name="Manabu Saitō" born="04.04.1990" caps="5" clubID="c294" />
+      <Player id="P527" no="21" pos="DF" name="Hiroki Sakai" born="12.04.1990" caps="18" clubID="c120" />
+      <Player id="P528" no="22" pos="DF" name="Maya Yoshida" born="24.08.1988" caps="41" clubID="c241" />
+      <Player id="P529" no="23" pos="GK" name="Shūichi Gonda" born="03.03.1989" caps="2" clubID="c094" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="KOR" coachName="Hong Myung-bo" coachNationality="KOR">
+      <Player id="P530" no="1" pos="GK" name="Jung Sung-ryong" born="04.01.1985" caps="61" clubID="c253" />
+      <Player id="P531" no="2" pos="DF" name="Kim Chang-soo" born="12.09.1985" caps="9" clubID="c135" />
+      <Player id="P532" no="3" pos="DF" name="Yun Suk-young" born="13.02.1990" caps="4" clubID="c206" />
+      <Player id="P533" no="4" pos="DF" name="Kwak Tae-hwi" born="08.07.1981" caps="35" clubID="c014" />
+      <Player id="P534" no="5" pos="DF" name="Kim Young-gwon" born="27.02.1990" caps="21" clubID="c115" />
+      <Player id="P535" no="6" pos="DF" name="Hwang Seok-ho" born="27.06.1989" caps="3" clubID="c223" />
+      <Player id="P536" no="7" pos="MF" name="Kim Bo-kyung" born="06.10.1989" caps="28" clubID="c055" />
+      <Player id="P537" no="8" pos="MF" name="Ha Dae-sung" born="02.03.1985" caps="13" clubID="c040" />
+      <Player id="P538" no="9" pos="FW" name="Son Heung-min" born="08.07.1992" caps="25" clubID="c038" />
+      <Player id="P539" no="10" pos="FW" name="Park Chu-young" born="10.07.1985" caps="64" clubID="c289" />
+      <Player id="P540" no="11" pos="FW" name="Lee Keun-ho" born="11.04.1985" caps="63" clubID="c224" />
+      <Player id="P541" no="12" pos="DF" name="Lee Yong" born="24.12.1986" caps="12" clubID="c268" />
+      <Player id="P542" no="13" pos="MF" name="Koo Ja-cheol" born="27.02.1989" caps="37" clubID="c160" />
+      <Player id="P543" no="14" pos="MF" name="Han Kook-young" born="19.04.1990" caps="10" clubID="c135" />
+      <Player id="P544" no="15" pos="MF" name="Park Jong-woo" born="10.03.1989" caps="10" clubID="c116" />
+      <Player id="P545" no="16" pos="MF" name="Ki Sung-yueng" born="24.01.1989" caps="58" clubID="c251" />
+      <Player id="P546" no="17" pos="MF" name="Lee Chung-yong" born="02.07.1988" caps="55" clubID="c045" />
+      <Player id="P547" no="18" pos="FW" name="Kim Shin-wook" born="14.04.1988" caps="27" clubID="c268" />
+      <Player id="P548" no="19" pos="FW" name="Ji Dong-won" born="28.05.1991" caps="28" clubID="c095" />
+      <Player id="P549" no="20" pos="DF" name="Hong Jeong-ho" born="12.08.1989" caps="25" clubID="c095" />
+      <Player id="P550" no="21" pos="GK" name="Kim Seung-gyu" born="30.09.1990" caps="5" clubID="c268" />
+      <Player id="P551" no="22" pos="DF" name="Park Joo-ho" born="16.01.1987" caps="14" clubID="c160" />
+      <Player id="P552" no="23" pos="GK" name="Lee Bum-young" born="02.04.1989" caps="0" clubID="c053" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="MEX" coachName="Miguel Herrera" coachNationality="MEX">
+      <Player id="P553" no="1" pos="GK" name="José de Jesús Corona" born="26.01.1981" caps="34" clubID="c073" />
+      <Player id="P554" no="2" pos="DF" name="Francisco Javier Rodríguez" born="20.10.1981" caps="95" clubID="c018" />
+      <Player id="P555" no="3" pos="DF" name="Carlos Salcido" born="02.04.1980" caps="122" clubID="c266" />
+      <Player id="P556" no="4" pos="DF" name="Rafael Márquez" born="13.02.1979" caps="120" clubID="c147" />
+      <Player id="P557" no="5" pos="DF" name="Diego Reyes" born="19.09.1992" caps="14" clubID="c201" />
+      <Player id="P558" no="6" pos="MF" name="Héctor Herrera" born="19.04.1990" caps="13" clubID="c201" />
+      <Player id="P559" no="7" pos="DF" name="Miguel Layún" born="25.06.1988" caps="15" clubID="c018" />
+      <Player id="P560" no="8" pos="MF" name="Marco Fabián" born="21.07.1989" caps="15" clubID="c073" />
+      <Player id="P561" no="9" pos="FW" name="Raúl Jiménez" born="05.05.1991" caps="25" clubID="c018" />
+      <Player id="P562" no="10" pos="FW" name="Giovani dos Santos" born="11.05.1989" caps="76" clubID="c284" />
+      <Player id="P563" no="11" pos="FW" name="Alan Pulido" born="08.03.1991" caps="6" clubID="c266" />
+      <Player id="P564" no="12" pos="GK" name="Alfredo Talavera" born="18.09.1982" caps="14" clubID="c258" />
+      <Player id="P565" no="13" pos="GK" name="Guillermo Ochoa" born="13.07.1985" caps="59" clubID="c009" />
+      <Player id="P566" no="14" pos="FW" name="Javier Hernández" born="01.06.1988" caps="62" clubID="c165" />
+      <Player id="P567" no="15" pos="DF" name="Héctor Moreno" born="17.01.1988" caps="53" clubID="c089" />
+      <Player id="P568" no="16" pos="DF" name="Miguel Ángel Ponce" born="12.04.1989" caps="8" clubID="c258" />
+      <Player id="P569" no="17" pos="MF" name="Isaác Brizuela" born="28.08.1990" caps="7" clubID="c258" />
+      <Player id="P570" no="18" pos="DF" name="Andrés Guardado" born="28.09.1986" caps="104" clubID="c038" />
+      <Player id="P571" no="19" pos="FW" name="Oribe Peralta" born="12.01.1984" caps="33" clubID="c227" />
+      <Player id="P572" no="20" pos="MF" name="Javier Aquino" born="11.02.1990" caps="22" clubID="c284" />
+      <Player id="P573" no="21" pos="MF" name="Carlos Peña" born="29.03.1990" caps="16" clubID="c147" />
+      <Player id="P574" no="22" pos="DF" name="Paul Aguilar" born="06.03.1986" caps="30" clubID="c018" />
+      <Player id="P575" no="23" pos="MF" name="José Juan Vázquez" born="14.03.1988" caps="5" clubID="c147" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="NED" coachName="Louis van Gaal" coachNationality="NED">
+      <Player id="P576" no="1" pos="GK" name="Jasper Cillessen" born="22.04.1989" caps="8" clubID="c010" />
+      <Player id="P577" no="2" pos="DF" name="Ron Vlaar" born="16.02.1985" caps="24" clubID="c025" />
+      <Player id="P578" no="3" pos="DF" name="Stefan de Vrij" born="05.02.1992" caps="12" clubID="c099" />
+      <Player id="P579" no="4" pos="DF" name="Bruno Martins Indi" born="08.02.1992" caps="16" clubID="c099" />
+      <Player id="P580" no="5" pos="DF" name="Daley Blind" born="09.03.1990" caps="12" clubID="c010" />
+      <Player id="P581" no="6" pos="MF" name="Nigel de Jong" born="13.11.1984" caps="71" clubID="c169" />
+      <Player id="P582" no="7" pos="DF" name="Daryl Janmaat" born="22.07.1989" caps="16" clubID="c099" />
+      <Player id="P583" no="8" pos="MF" name="Jonathan de Guzmán" born="13.09.1987" caps="10" clubID="c254" />
+      <Player id="P584" no="9" pos="FW" name="Robin van Persie" born="06.08.1983" caps="85" clubID="c165" />
+      <Player id="P585" no="10" pos="MF" name="Wesley Sneijder" born="09.06.1984" caps="99" clubID="c107" />
+      <Player id="P586" no="11" pos="MF" name="Arjen Robben" born="23.01.1984" caps="75" clubID="c039" />
+      <Player id="P587" no="12" pos="DF" name="Paul Verhaegh" born="01.09.1983" caps="2" clubID="c031" />
+      <Player id="P588" no="13" pos="DF" name="Joël Veltman" born="15.01.1992" caps="2" clubID="c010" />
+      <Player id="P589" no="14" pos="DF" name="Terence Kongolo" born="14.02.1994" caps="1" clubID="c099" />
+      <Player id="P590" no="15" pos="FW" name="Dirk Kuyt" born="22.07.1980" caps="98" clubID="c096" />
+      <Player id="P591" no="16" pos="MF" name="Jordy Clasie" born="27.06.1991" caps="8" clubID="c099" />
+      <Player id="P592" no="17" pos="FW" name="Jeremain Lens" born="24.11.1987" caps="22" clubID="c080" />
+      <Player id="P593" no="18" pos="MF" name="Leroy Fer" born="05.01.1990" caps="6" clubID="c186" />
+      <Player id="P594" no="19" pos="FW" name="Klaas-Jan Huntelaar" born="12.08.1983" caps="62" clubID="c232" />
+      <Player id="P595" no="20" pos="MF" name="Georginio Wijnaldum" born="11.11.1990" caps="5" clubID="c203" />
+      <Player id="P596" no="21" pos="MF" name="Memphis Depay" born="13.02.1994" caps="6" clubID="c203" />
+      <Player id="P597" no="22" pos="GK" name="Michel Vorm" born="03.10.1983" caps="14" clubID="c254" />
+      <Player id="P598" no="23" pos="GK" name="Tim Krul" born="03.04.1988" caps="5" clubID="c183" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="NGA" coachName="Stephen Keshi" coachNationality="NGA">
+      <Player id="P599" no="1" pos="GK" name="Vincent Enyeama" born="29.08.1982" caps="91" clubID="c150" />
+      <Player id="P600" no="2" pos="DF" name="Joseph Yobo" born="06.09.1980" caps="97" clubID="c186" />
+      <Player id="P601" no="3" pos="MF" name="Ejike Uzoenyi" born="23.03.1988" caps="21" clubID="c088" />
+      <Player id="P602" no="4" pos="MF" name="Reuben Gabriel" born="25.09.1990" caps="11" clubID="c287" />
+      <Player id="P603" no="5" pos="DF" name="Efe Ambrose" born="18.10.1988" caps="37" clubID="c060" />
+      <Player id="P604" no="6" pos="DF" name="Azubuike Egwuekwe" born="16.07.1989" caps="31" clubID="c288" />
+      <Player id="P605" no="7" pos="FW" name="Ahmed Musa" born="14.10.1992" caps="35" clubID="c076" />
+      <Player id="P606" no="8" pos="FW" name="Peter Odemwingie" born="15.07.1981" caps="61" clubID="c248" />
+      <Player id="P607" no="9" pos="FW" name="Emmanuel Emenike" born="10.05.1987" caps="23" clubID="c096" />
+      <Player id="P608" no="10" pos="MF" name="John Obi Mikel" born="22.04.1987" caps="59" clubID="c064" />
+      <Player id="P609" no="11" pos="MF" name="Victor Moses" born="12.12.1990" caps="22" clubID="c151" />
+      <Player id="P610" no="12" pos="DF" name="Kunle Odunlami" born="05.03.1990" caps="11" clubID="c252" />
+      <Player id="P611" no="13" pos="DF" name="Juwon Oshaniwa" born="14.09.1990" caps="10" clubID="c024" />
+      <Player id="P612" no="14" pos="DF" name="Godfrey Oboabona" born="16.08.1990" caps="35" clubID="c058" />
+      <Player id="P613" no="15" pos="MF" name="Ramon Azeez" born="12.12.1992" caps="2" clubID="c017" />
+      <Player id="P614" no="16" pos="GK" name="Austin Ejide" born="08.04.1984" caps="31" clubID="c121" />
+      <Player id="P615" no="17" pos="MF" name="Ogenyi Onazi" born="25.12.1992" caps="21" clubID="c142" />
+      <Player id="P616" no="18" pos="MF" name="Michael Babatunde" born="24.12.1992" caps="5" clubID="c286" />
+      <Player id="P617" no="19" pos="FW" name="Uche Nwofor" born="17.09.1991" caps="6" clubID="c122" />
+      <Player id="P618" no="20" pos="FW" name="Michael Uchebo" born="02.02.1990" caps="4" clubID="c061" />
+      <Player id="P619" no="21" pos="GK" name="Chigozie Agbim" born="28.11.1984" caps="11" clubID="c112" />
+      <Player id="P620" no="22" pos="DF" name="Kenneth Omeruo" born="17.10.1993" caps="17" clubID="c168" />
+      <Player id="P621" no="23" pos="FW" name="Shola Ameobi" born="12.10.1981" caps="7" clubID="c183" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="POR" coachName="Paulo Bento" coachNationality="POR">
+      <Player id="P622" no="1" pos="GK" name="Eduardo" born="19.09.1982" caps="34" clubID="c051" />
+      <Player id="P623" no="2" pos="DF" name="Bruno Alves" born="27.11.1981" caps="72" clubID="c096" />
+      <Player id="P624" no="3" pos="DF" name="Pepe" born="26.02.1983" caps="58" clubID="c208" />
+      <Player id="P625" no="4" pos="MF" name="Miguel Veloso" born="11.05.1986" caps="49" clubID="c080" />
+      <Player id="P626" no="5" pos="DF" name="Fábio Coentrão" born="11.03.1988" caps="45" clubID="c208" />
+      <Player id="P627" no="6" pos="MF" name="William Carvalho" born="07.04.1992" caps="4" clubID="c244" />
+      <Player id="P628" no="7" pos="FW" name="Cristiano Ronaldo" born="05.02.1985" caps="111" clubID="c208" />
+      <Player id="P629" no="8" pos="MF" name="João Moutinho" born="08.09.1986" caps="68" clubID="c023" />
+      <Player id="P630" no="9" pos="FW" name="Hugo Almeida" born="23.05.1984" caps="55" clubID="c042" />
+      <Player id="P631" no="10" pos="MF" name="Vieirinha" born="24.01.1986" caps="9" clubID="c282" />
+      <Player id="P632" no="11" pos="FW" name="Éder" born="22.12.1987" caps="8" clubID="c051" />
+      <Player id="P633" no="12" pos="GK" name="Rui Patrício" born="15.02.1988" caps="30" clubID="c244" />
+      <Player id="P634" no="13" pos="DF" name="Ricardo Costa" born="16.05.1981" caps="19" clubID="c275" />
+      <Player id="P635" no="14" pos="DF" name="Luís Neto" born="26.05.1988" caps="9" clubID="c296" />
+      <Player id="P636" no="15" pos="MF" name="Rafa Silva" born="17.05.1993" caps="3" clubID="c051" />
+      <Player id="P637" no="16" pos="MF" name="Raul Meireles" born="17.03.1983" caps="74" clubID="c096" />
+      <Player id="P638" no="17" pos="MF" name="Nani" born="17.11.1986" caps="75" clubID="c165" />
+      <Player id="P639" no="18" pos="MF" name="Silvestre Varela" born="02.02.1985" caps="24" clubID="c201" />
+      <Player id="P640" no="19" pos="DF" name="André Almeida" born="10.09.1990" caps="5" clubID="c041" />
+      <Player id="P641" no="20" pos="MF" name="Rúben Amorim" born="27.01.1985" caps="13" clubID="c041" />
+      <Player id="P642" no="21" pos="DF" name="João Pereira" born="25.02.1984" caps="36" clubID="c275" />
+      <Player id="P643" no="22" pos="GK" name="Beto" born="01.05.1982" caps="7" clubID="c235" />
+      <Player id="P644" no="23" pos="FW" name="Hélder Postiga" born="02.08.1982" caps="69" clubID="c142" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="RUS" coachName="Fabio Capello" coachNationality="ITA">
+      <Player id="P645" no="1" pos="GK" name="Igor Akinfeev" born="08.04.1986" caps="69" clubID="c076" />
+      <Player id="P646" no="2" pos="DF" name="Aleksei Kozlov" born="16.11.1986" caps="11" clubID="c081" />
+      <Player id="P647" no="3" pos="DF" name="Georgi Shchennikov" born="27.04.1991" caps="4" clubID="c076" />
+      <Player id="P648" no="4" pos="DF" name="Sergei Ignashevich" born="14.07.1979" caps="98" clubID="c076" />
+      <Player id="P649" no="5" pos="DF" name="Andrei Semyonov" born="24.03.1989" caps="1" clubID="c256" />
+      <Player id="P650" no="6" pos="FW" name="Maksim Kanunnikov" born="14.07.1991" caps="2" clubID="c218" />
+      <Player id="P651" no="7" pos="MF" name="Igor Denisov" born="17.05.1984" caps="44" clubID="c081" />
+      <Player id="P652" no="8" pos="MF" name="Denis Glushakov" born="27.01.1987" caps="26" clubID="c242" />
+      <Player id="P653" no="9" pos="FW" name="Aleksandr Kokorin" born="19.03.1991" caps="22" clubID="c081" />
+      <Player id="P654" no="10" pos="MF" name="Alan Dzagoev" born="17.06.1990" caps="33" clubID="c076" />
+      <Player id="P655" no="11" pos="FW" name="Aleksandr Kerzhakov" born="27.11.1982" caps="81" clubID="c296" />
+      <Player id="P656" no="12" pos="GK" name="Yuri Lodygin" born="26.05.1990" caps="3" clubID="c296" />
+      <Player id="P657" no="13" pos="DF" name="Vladimir Granat" born="22.05.1987" caps="5" clubID="c081" />
+      <Player id="P658" no="14" pos="DF" name="Vasili Berezutski" born="20.06.1982" caps="78" clubID="c076" />
+      <Player id="P659" no="15" pos="MF" name="Pavel Mogilevets" born="25.01.1993" caps="1" clubID="c218" />
+      <Player id="P660" no="16" pos="GK" name="Sergey Ryzhikov" born="19.09.1980" caps="1" clubID="c218" />
+      <Player id="P661" no="17" pos="MF" name="Oleg Shatov" born="29.07.1990" caps="7" clubID="c296" />
+      <Player id="P662" no="18" pos="FW" name="Yuri Zhirkov" born="20.08.1983" caps="61" clubID="c081" />
+      <Player id="P663" no="19" pos="FW" name="Aleksandr Samedov" born="19.07.1984" caps="17" clubID="c154" />
+      <Player id="P664" no="20" pos="MF" name="Viktor Fayzulin" born="22.04.1986" caps="19" clubID="c296" />
+      <Player id="P665" no="21" pos="FW" name="Aleksei Ionov" born="18.02.1989" caps="5" clubID="c081" />
+      <Player id="P666" no="22" pos="DF" name="Andrey Yeshchenko" born="09.02.1984" caps="12" clubID="c021" />
+      <Player id="P667" no="23" pos="DF" name="Dmitri Kombarov" born="22.01.1987" caps="23" clubID="c242" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="SUI" coachName="Ottmar Hitzfeld" coachNationality="GER">
+      <Player id="P668" no="1" pos="GK" name="Diego Benaglio" born="08.09.1983" caps="57" clubID="c282" />
+      <Player id="P669" no="2" pos="DF" name="Stephan Lichtsteiner" born="16.01.1984" caps="63" clubID="c134" />
+      <Player id="P670" no="3" pos="DF" name="Reto Ziegler" born="16.01.1986" caps="35" clubID="c230" />
+      <Player id="P671" no="4" pos="DF" name="Philippe Senderos" born="14.02.1985" caps="53" clubID="c275" />
+      <Player id="P672" no="5" pos="DF" name="Steve von Bergen" born="10.06.1983" caps="41" clubID="c295" />
+      <Player id="P673" no="6" pos="DF" name="Michael Lang" born="08.02.1991" caps="6" clubID="c114" />
+      <Player id="P674" no="7" pos="MF" name="Tranquillo Barnetta" born="22.05.1985" caps="74" clubID="c083" />
+      <Player id="P675" no="8" pos="MF" name="Gökhan Inler" born="27.06.1984" caps="73" clubID="c178" />
+      <Player id="P676" no="9" pos="FW" name="Haris Seferović" born="22.02.1992" caps="11" clubID="c211" />
+      <Player id="P677" no="10" pos="MF" name="Granit Xhaka" born="27.09.1992" caps="26" clubID="c049" />
+      <Player id="P678" no="11" pos="MF" name="Valon Behrami" born="19.04.1985" caps="48" clubID="c178" />
+      <Player id="P679" no="12" pos="GK" name="Yann Sommer" born="17.12.1988" caps="6" clubID="c036" />
+      <Player id="P680" no="13" pos="DF" name="Ricardo Rodríguez" born="25.08.1992" caps="21" clubID="c282" />
+      <Player id="P681" no="14" pos="MF" name="Valentin Stocker" born="12.04.1989" caps="24" clubID="c036" />
+      <Player id="P682" no="15" pos="MF" name="Blerim Džemaili" born="12.04.1986" caps="34" clubID="c178" />
+      <Player id="P683" no="16" pos="MF" name="Gelson Fernandes" born="02.09.1986" caps="47" clubID="c231" />
+      <Player id="P684" no="17" pos="FW" name="Mario Gavranović" born="24.11.1989" caps="11" clubID="c300" />
+      <Player id="P685" no="18" pos="FW" name="Admir Mehmedi" born="16.03.1991" caps="21" clubID="c231" />
+      <Player id="P686" no="19" pos="FW" name="Josip Drmić" born="08.08.1992" caps="7" clubID="c001" />
+      <Player id="P687" no="20" pos="DF" name="Johan Djourou" born="18.01.1987" caps="44" clubID="c119" />
+      <Player id="P688" no="21" pos="GK" name="Roman Bürki" born="14.11.1990" caps="0" clubID="c114" />
+      <Player id="P689" no="22" pos="DF" name="Fabian Schär" born="20.12.1991" caps="6" clubID="c036" />
+      <Player id="P690" no="23" pos="MF" name="Xherdan Shaqiri" born="10.10.1991" caps="33" clubID="c039" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="URU" coachName="Óscar Tabárez" coachNationality="URU">
+      <Player id="P691" no="1" pos="GK" name="Fernando Muslera" born="16.06.1986" caps="58" clubID="c107" />
+      <Player id="P692" no="2" pos="DF" name="Diego Lugano" born="02.11.1980" caps="94" clubID="c290" />
+      <Player id="P693" no="3" pos="DF" name="Diego Godín" born="16.02.1986" caps="77" clubID="c028" />
+      <Player id="P694" no="4" pos="DF" name="Jorge Fucile" born="19.11.1984" caps="42" clubID="c201" />
+      <Player id="P695" no="5" pos="MF" name="Walter Gargano" born="23.07.1984" caps="63" clubID="c198" />
+      <Player id="P696" no="6" pos="MF" name="Álvaro Pereira" born="28.11.1985" caps="57" clubID="c228" />
+      <Player id="P697" no="7" pos="MF" name="Cristian Rodríguez" born="30.09.1985" caps="73" clubID="c028" />
+      <Player id="P698" no="8" pos="FW" name="Abel Hernández" born="08.08.1990" caps="12" clubID="c193" />
+      <Player id="P699" no="9" pos="FW" name="Luis Suárez" born="24.01.1987" caps="77" clubID="c151" />
+      <Player id="P700" no="10" pos="FW" name="Diego Forlán" born="19.05.1979" caps="110" clubID="c062" />
+      <Player id="P701" no="11" pos="FW" name="Christian Stuani" born="12.10.1986" caps="10" clubID="c089" />
+      <Player id="P702" no="12" pos="GK" name="Rodrigo Muñoz" born="22.01.1982" caps="0" clubID="c149" />
+      <Player id="P703" no="13" pos="DF" name="José María Giménez" born="20.01.1995" caps="6" clubID="c028" />
+      <Player id="P704" no="14" pos="MF" name="Nicolás Lodeiro" born="21.03.1989" caps="26" clubID="c071" />
+      <Player id="P705" no="15" pos="MF" name="Diego Pérez" born="18.05.1980" caps="89" clubID="c044" />
+      <Player id="P706" no="16" pos="DF" name="Maxi Pereira" born="08.06.1984" caps="90" clubID="c041" />
+      <Player id="P707" no="17" pos="MF" name="Egidio Arévalo Ríos" born="01.01.1982" caps="55" clubID="c172" />
+      <Player id="P708" no="18" pos="MF" name="Gastón Ramírez" born="02.12.1990" caps="29" clubID="c241" />
+      <Player id="P709" no="19" pos="DF" name="Sebastián Coates" born="07.10.1990" caps="15" clubID="c174" />
+      <Player id="P710" no="20" pos="MF" name="Álvaro González" born="29.10.1984" caps="43" clubID="c142" />
+      <Player id="P711" no="21" pos="FW" name="Edinson Cavani" born="14.02.1987" caps="62" clubID="c197" />
+      <Player id="P712" no="22" pos="DF" name="Martín Cáceres" born="07.04.1987" caps="57" clubID="c134" />
+      <Player id="P713" no="23" pos="GK" name="Martín Silva" born="25.03.1983" caps="4" clubID="c279" />
+    </CountryPlayerList>
+    <CountryPlayerList countryID="USA" coachName="Jürgen Klinsmann" coachNationality="GER">
+      <Player id="P714" no="1" pos="GK" name="Tim Howard" born="06.03.1979" caps="100" clubID="c092" />
+      <Player id="P715" no="2" pos="DF" name="DeAndre Yedlin" born="09.07.1993" caps="4" clubID="c233" />
+      <Player id="P716" no="3" pos="DF" name="Omar Gonzalez" born="11.10.1988" caps="20" clubID="c157" />
+      <Player id="P717" no="4" pos="MF" name="Michael Bradley" born="31.07.1987" caps="86" clubID="c260" />
+      <Player id="P718" no="5" pos="DF" name="Matt Besler" born="11.02.1987" caps="17" clubID="c245" />
+      <Player id="P719" no="6" pos="DF" name="John Brooks" born="28.01.1993" caps="4" clubID="c126" />
+      <Player id="P720" no="7" pos="DF" name="DaMarcus Beasley" born="24.05.1982" caps="116" clubID="c204" />
+      <Player id="P721" no="8" pos="FW" name="Clint Dempsey" born="09.03.1983" caps="105" clubID="c233" />
+      <Player id="P722" no="9" pos="FW" name="Aron Jóhannsson" born="10.11.1990" caps="8" clubID="c033" />
+      <Player id="P723" no="10" pos="MF" name="Mikkel Diskerud" born="02.10.1990" caps="20" clubID="c216" />
+      <Player id="P724" no="11" pos="MF" name="Alejandro Bedoya" born="29.04.1987" caps="28" clubID="c177" />
+      <Player id="P725" no="12" pos="GK" name="Brad Guzan" born="09.09.1984" caps="25" clubID="c025" />
+      <Player id="P726" no="13" pos="MF" name="Jermaine Jones" born="03.11.1981" caps="42" clubID="c042" />
+      <Player id="P727" no="14" pos="MF" name="Brad Davis" born="08.11.1981" caps="16" clubID="c127" />
+      <Player id="P728" no="15" pos="MF" name="Kyle Beckerman" born="23.04.1982" caps="37" clubID="c209" />
+      <Player id="P729" no="16" pos="MF" name="Julian Green" born="06.06.1995" caps="2" clubID="c039" />
+      <Player id="P730" no="17" pos="FW" name="Jozy Altidore" born="06.11.1989" caps="70" clubID="c251" />
+      <Player id="P731" no="18" pos="FW" name="Chris Wondolowski" born="28.01.1983" caps="21" clubID="c221" />
+      <Player id="P732" no="19" pos="MF" name="Graham Zusi" born="18.08.1986" caps="23" clubID="c245" />
+      <Player id="P733" no="20" pos="DF" name="Geoff Cameron" born="11.07.1985" caps="27" clubID="c248" />
+      <Player id="P734" no="21" pos="DF" name="Timothy Chandler" born="29.03.1990" caps="13" clubID="c001" />
+      <Player id="P735" no="22" pos="GK" name="Nick Rimando" born="17.06.1979" caps="14" clubID="c209" />
+      <Player id="P736" no="23" pos="DF" name="Fabian Johnson" born="11.12.1987" caps="22" clubID="c003" />
+    </CountryPlayerList>
+  </COUNTRY_PLAYERS>
+</PLAYERS>

@@ -1,0 +1,126 @@
+<DATABASE lastSavedCirca="2014/19/06 19:00">
+  <ARENAS>
+    <Arena city="Rio de Janeiro" name="Estádio do Maracanã" capacity="74689" built="1950" />
+    <Arena city="Brasília" name="Estádio Nacional" capacity="69432" built="2012" />
+    <Arena city="São Paulo" name="Arena de São Paulo" capacity="61606" built="2014" />
+    <Arena city="Fortaleza" name="Estádio Castelão" capacity="60348" built="1973" />
+    <Arena city="Belo Horizonte" name="Estádio Mineirão" capacity="58259" built="1965" />
+    <Arena city="Salvador" name="Arena Fonte Nova" capacity="51708" built="1951" />
+    <Arena city="Porto Alegre" name="Estádio Beira-Rio" capacity="42991" built="1969" />
+    <Arena city="Recife" name="Arena Pernambuco" capacity="42583" built="2014" />
+    <Arena city="Cuiabá" name="Arena Pantanal" capacity="39859" built="2014" />
+    <Arena city="Manaus" name="Arena Amazônia" capacity="39118" built="2013" />
+    <Arena city="Natal" name="Estádio das Dunas" capacity="38958" built="1972" />
+    <Arena city="Curitiba" name="Arena da Baixada" capacity="38533" built="1914" />
+  </ARENAS>
+  <TEAMS>
+    <Team id="BRA" name="Brasil" english="Brazil" colors="#009C3B,#FFDF00,#00267B,#FFFFFF" />
+    <Team id="CRO" name="Hrvatska" english="Croatia" colors="#171696,#FE0000,#FFFFFF" />
+    <Team id="MEX" name="México" english="Mexico" colors="#006847,#FFFFFF,#CE1127" />
+    <Team id="CMR" name="Cameroun" english="Cameroon" colors="#027A5E,#D10526,#F9D006" />
+    <Team id="ESP" name="España" english="Spain" colors="#C60B1C,#28468C,#FEC400" />
+    <Team id="NED" name="Nederland" english="Netherlands" colors="#FF910E,#FFFFFF" />
+    <Team id="CHI" name="Chile" english="Chile" colors="#D52B1E,#FFFFFF,#0038A5" />
+    <Team id="AUS" name="Australia" english="Australia" colors="#F2FF00,#589940" />
+    <Team id="COL" name="Colombia" english="Columbia" colors="#FDD116,#013893,#CE1127" />
+    <Team id="GRE" name="Ελλάδα" english="Greece" colors="#0D5EAF,#FFFFFF" />
+    <Team id="CIV" name="Côte d'Ivoire" english="Ivory Coast" colors="#F67F00,#FFFFFF,#009E61" />
+    <Team id="JPN" name="日本" english="Japan" colors="#1B2985,#FFFFFF" />
+    <Team id="SUI" name="Schweiz" english="Switzerland" colors="#D52B1E,#FFFFFF" />
+    <Team id="ECU" name="Ecuador" english="Ecuador" colors="#FFDD00,#024FA1,#FFFFFF,#ED1A23" />
+    <Team id="FRA" name="France" english="France" colors="#002496,#FFFFFF,#ED2839" />
+    <Team id="HON" name="Honduras" english="Honduras" colors="#FFFFFF,#0073CE" />
+    <Team id="ARG" name="Argentina" english="Argentina" colors="#76AADA,#FFFFFF,#000000" />
+    <Team id="BIH" name="Bosna i Hercegovina" english="Bosnia and Herzegovina" colors="#2043B3,#FFFFFF" />
+    <Team id="IRN" name="ایران" english="Iran" colors="#FFFFFF" />
+    <Team id="NGA" name="Nigeria" english="Nigeria" colors="#00874F,#FFFFFF" />
+    <Team id="GER" name="Deutschland" english="Germany" colors="#FFFFFF,#000000" />
+    <Team id="POR" name="Portugal" english="Portugal" colors="#B0192A,#237334,#FFFFFF" />
+    <Team id="GHA" name="Ghana" english="Ghana" colors="#FFFFFF,#ED0C0C,#FFFF01" />
+    <Team id="USA" name="United States" english="United States" colors="#202028,#FFFFFF" />
+    <Team id="URU" name="Uruguay" english="Uruguay" colors="#588FB6,#23221E" />
+    <Team id="CRC" name="Costa Rica" english="Costa Rica" colors="#CE1127,#012B81,#FFFFFF" />
+    <Team id="ENG" name="England" english="England" colors="#FFFFFF,#F21F1F,#0E0E16" />
+    <Team id="ITA" name="Italia" english="Italy" colors="#0B3B9F,#FFFFFF" />
+    <Team id="BEL" name="België" english="Belgium" colors="#ED2839,#000000" />
+    <Team id="ALG" name="الجزائر" english="Algeria" colors="#FFFFFF,#6DD67B" />
+    <Team id="RUS" name="Россия" english="Russia" colors="#FA1121,#1D34E0" />
+    <Team id="KOR" name="대한민국" english="South Korea" colors="#F03A43,#3C4FE6,#FFFFFF" />
+  </TEAMS>
+  <GROUPS>
+    <Group id="GA" name="Group A" teams="BRA,MEX,CRO,CMR" />
+    <Group id="GB" name="Group B" teams="NED,CHI,AUS,ESP" />
+    <Group id="GC" name="Group C" teams="COL,CIV,JPN,GRE" />
+    <Group id="GD" name="Group D" teams="CRC,ITA,ENG,URU" />
+    <Group id="GE" name="Group E" teams="FRA,SUI,ECU,HON" />
+    <Group id="GF" name="Group F" teams="ARG,IRN,NGA,BIH" />
+    <Group id="GG" name="Group G" teams="GER,USA,GHA,POR" />
+    <Group id="GH" name="Group H" teams="BEL,KOR,RUS,ALG" />
+  </GROUPS>
+  <MATCHES timezone="GMT+2">
+    <Match id="1" type="GA" teams="BRA,CRO" when="12/06@23" where="São Paulo" played="True" score="1-1,2-0" />
+    <Match id="2" type="GA" teams="MEX,CMR" when="13/06@19" where="Natal" played="True" score="0-0,1-0" />
+    <Match id="3" type="GB" teams="ESP,NED" when="13/06@22" where="Salvador" played="True" score="1-1,0-4" />
+    <Match id="4" type="GB" teams="CHI,AUS" when="14/06@01" where="Cuiabá" played="True" score="2-1,1-0" />
+    <Match id="5" type="GC" teams="COL,GRE" when="14/06@19" where="Belo Horizonte" played="True" score="1-0,2-0" />
+    <Match id="6" type="GC" teams="CIV,JPN" when="15/06@04" where="Recife" played="True" score="0-1,2-0" />
+    <Match id="7" type="GD" teams="URU,CRC" when="14/06@22" where="Fortaleza" played="True" score="1-0,0-3" />
+    <Match id="8" type="GD" teams="ENG,ITA" when="15/06@01" where="Manaus" played="True" score="1-1,0-1" />
+    <Match id="9" type="GE" teams="SUI,ECU" when="15/06@19" where="Brasília" played="True" score="0-1,2-0" />
+    <Match id="10" type="GE" teams="FRA,HON" when="15/06@22" where="Porto Alegre" played="True" score="1-0,2-0" />
+    <Match id="11" type="GF" teams="ARG,BIH" when="16/06@01" where="Rio de Janeiro" played="True" score="1-0,1-1" />
+    <Match id="12" type="GF" teams="IRN,NGA" when="16/06@22" where="Curitiba" played="True" score="0-0,0-0" />
+    <Match id="13" type="GG" teams="GER,POR" when="16/06@19" where="Salvador" played="True" score="3-0,1-0" />
+    <Match id="14" type="GG" teams="GHA,USA" when="17/06@01" where="Natal" played="True" score="0-1,1-1" />
+    <Match id="15" type="GH" teams="BEL,ALG" when="17/06@19" where="Belo Horizonte" played="True" score="0-1,2-0" />
+    <Match id="16" type="GH" teams="RUS,KOR" when="18/06@01" where="Cuiabá" played="True" score="0-0,1-1" />
+    <Match id="17" type="GA" teams="BRA,MEX" when="17/06@22" where="Fortaleza" played="True" score="0-0,0-0" />
+    <Match id="18" type="GA" teams="CMR,CRO" when="19/06@01" where="Manaus" played="True" score="0-1,0-3" />
+    <Match id="19" type="GB" teams="AUS,NED" when="18/06@19" where="Porto Alegre" played="True" score="1-1,1-2" />
+    <Match id="20" type="GB" teams="ESP,CHI" when="18/06@22" where="Rio de Janeiro" played="True" score="0-2,0-0" />
+    <Match id="21" type="GC" teams="COL,CIV" when="19/06@19" where="Brasília" played="True" score="0-0,0-0" />
+    <Match id="22" type="GC" teams="JPN,GRE" when="20/06@01" where="Natal" played="False" score="0-0,0-0" />
+    <Match id="23" type="GD" teams="URU,ENG" when="19/06@22" where="São Paulo" played="False" score="0-0,0-0" />
+    <Match id="24" type="GD" teams="ITA,CRC" when="20/06@19" where="Recife" played="False" score="0-0,0-0" />
+    <Match id="25" type="GE" teams="SUI,FRA" when="20/06@22" where="Salvador" played="False" score="0-0,0-0" />
+    <Match id="26" type="GE" teams="HON,ECU" when="21/06@01" where="Curitiba" played="False" score="0-0,0-0" />
+    <Match id="27" type="GF" teams="ARG,IRN" when="21/06@19" where="Belo Horizonte" played="False" score="0-0,0-0" />
+    <Match id="28" type="GF" teams="NGA,BIH" when="22/06@01" where="Cuiabá" played="False" score="0-0,0-0" />
+    <Match id="29" type="GG" teams="GER,GHA" when="21/06@22" where="Fortaleza" played="False" score="0-0,0-0" />
+    <Match id="30" type="GG" teams="USA,POR" when="23/06@01" where="Manaus" played="False" score="0-0,0-0" />
+    <Match id="31" type="GH" teams="BEL,RUS" when="22/06@19" where="Rio de Janeiro" played="False" score="0-0,0-0" />
+    <Match id="32" type="GH" teams="KOR,ALG" when="22/06@22" where="Porto Alegre" played="False" score="0-0,0-0" />
+    <Match id="33" type="GA" teams="CRO,MEX" when="23/06@23" where="Recife" played="False" score="0-0,0-0" />
+    <Match id="34" type="GA" teams="CMR,BRA" when="23/06@23" where="Brasília" played="False" score="0-0,0-0" />
+    <Match id="35" type="GB" teams="NED,CHI" when="23/06@19" where="São Paulo" played="False" score="0-0,0-0" />
+    <Match id="36" type="GB" teams="AUS,ESP" when="23/06@19" where="Curitiba" played="False" score="0-0,0-0" />
+    <Match id="37" type="GC" teams="JPN,COL" when="24/06@23" where="Cuiabá" played="False" score="0-0,0-0" />
+    <Match id="38" type="GC" teams="GRE,CIV" when="24/06@23" where="Fortaleza" played="False" score="0-0,0-0" />
+    <Match id="39" type="GD" teams="ITA,URU" when="24/06@19" where="Natal" played="False" score="0-0,0-0" />
+    <Match id="40" type="GD" teams="CRC,ENG" when="24/06@19" where="Belo Horizonte" played="False" score="0-0,0-0" />
+    <Match id="41" type="GE" teams="ECU,FRA" when="25/06@23" where="Rio de Janeiro" played="False" score="0-0,0-0" />
+    <Match id="42" type="GE" teams="HON,SUI" when="25/06@23" where="Manaus" played="False" score="0-0,0-0" />
+    <Match id="43" type="GF" teams="NGA,ARG" when="25/06@19" where="Porto Alegre" played="False" score="0-0,0-0" />
+    <Match id="44" type="GF" teams="BIH,IRN" when="25/06@19" where="Salvador" played="False" score="0-0,0-0" />
+    <Match id="45" type="GG" teams="USA,GER" when="26/06@19" where="Recife" played="False" score="0-0,0-0" />
+    <Match id="46" type="GG" teams="POR,GHA" when="26/06@19" where="Brasília" played="False" score="0-0,0-0" />
+    <Match id="47" type="GH" teams="KOR,BEL" when="26/06@23" where="São Paulo" played="False" score="0-0,0-0" />
+    <Match id="48" type="GH" teams="ALG,RUS" when="26/06@23" where="Curitiba" played="False" score="0-0,0-0" />
+    <Match id="49" type="8F" teams="GA1,GB2" when="28/06@19" where="Belo Horizonte" played="False" score="0-0,0-0" />
+    <Match id="50" type="8F" teams="GC1,GD2" when="28/06@23" where="Rio de Janeiro" played="False" score="0-0,0-0" />
+    <Match id="51" type="8F" teams="GB1,GA2" when="29/06@19" where="Fortaleza" played="False" score="0-0,0-0" />
+    <Match id="52" type="8F" teams="GD1,GC2" when="29/06@23" where="Recife" played="False" score="0-0,0-0" />
+    <Match id="53" type="8F" teams="GE1,GF2" when="30/06@19" where="Brasília" played="False" score="0-0,0-0" />
+    <Match id="54" type="8F" teams="GG1,GH2" when="30/06@23" where="Porto Alegre" played="False" score="0-0,0-0" />
+    <Match id="55" type="8F" teams="GF1,GE2" when="01/07@19" where="São Paulo" played="False" score="0-0,0-0" />
+    <Match id="56" type="8F" teams="GH1,GG2" when="01/07@23" where="Salvador" played="False" score="0-0,0-0" />
+    <Match id="57" type="4F" teams="W53,W54" when="04/07@19" where="Rio de Janeiro" played="False" score="0-0,0-0" />
+    <Match id="58" type="4F" teams="W49,W50" when="04/07@23" where="Fortaleza" played="False" score="0-0,0-0" />
+    <Match id="59" type="4F" teams="W55,W56" when="05/07@19" where="Brasília" played="False" score="0-0,0-0" />
+    <Match id="60" type="4F" teams="W51,W52" when="05/07@23" where="Salvador" played="False" score="0-0,0-0" />
+    <Match id="61" type="2F" teams="W57,W58" when="08/07@23" where="Belo Horizonte" played="False" score="0-0,0-0" />
+    <Match id="62" type="2F" teams="W59,W60" when="09/07@23" where="São Paulo" played="False" score="0-0,0-0" />
+    <Match id="63" type="LF" teams="L61,L62" when="12/07@23" where="Brasília" played="False" score="0-0,0-0" />
+    <Match id="64" type="WF" teams="W61,W62" when="13/07@22" where="Rio de Janeiro" played="False" score="0-0,0-0" />
+  </MATCHES>
+</DATABASE>
